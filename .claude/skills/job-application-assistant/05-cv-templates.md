@@ -129,12 +129,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Full-Stack SaaS Engineer roles:**
+> Full-stack software engineer focused on production SaaS applications with TypeScript, Next.js, React, Node.js, PostgreSQL, and Prisma. Experienced building authentication, RBAC, billing, database design, CI/CD, observability, and automated testing across shipped products. Brings end-to-end ownership from schema design and backend APIs through polished frontend workflows and deployment.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Healthtech / Medical Imaging Software roles:**
+> Full-stack engineer with hands-on healthtech experience through CoreVita, a medical imaging SaaS platform built with Next.js, TypeScript, PostgreSQL, Stripe, Backblaze B2, Sentry, and Cornerstone3D. Experienced translating complex product requirements into browser-based clinical workflows, including DICOM viewing, large-file uploads, tokenized sharing, authentication, RBAC, billing, and automated tests.
+
+**For Product Engineer / Workflow Platform roles:**
+> Product-minded full-stack engineer with experience building multi-tenant SaaS workflows, audit logs, role-based approval gates, billing limits, background jobs, and production deployment pipelines. Combines TypeScript/Next.js product execution with PostgreSQL/Prisma data modeling and practical reliability work across testing, CI/CD, monitoring, and cloud storage.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

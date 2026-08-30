@@ -1,84 +1,91 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
-
 ## Installed portal CLIs (primary for `/scrape`)
 
 `/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
 
-The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
+The `site:` query templates in this file are the **WebSearch fallback** - for portals without a CLI, company career pages, or when a CLI fails.
 
-**Language scope:** write every query category in every language listed in your CLAUDE.md Languages table (typically 1-2, sometimes more). A posting requiring a language you have *not* declared, as a job condition, is excluded before scoring; a posting requiring a *higher level* than you declared in a language you *do* work in is flagged for your own judgment, not excluded — see `04-job-evaluation.md`'s Language Gate, the single source of truth for this rule. Translate each category's keywords rather than machine-translating word-for-word (e.g. "Frontend Developer" -> "Desarrollador Frontend", not a literal word-for-word translation) if you work in more than one language.
+**Language scope:** search primarily in English for worldwide remote roles. Also consider German, French, Malay, Arabic, Turkish, or Italian postings only when the role's working-language bar is compatible with the declared levels in `CLAUDE.md` and `04-job-evaluation.md`.
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary:
+- **linkedin.com/jobs** - LinkedIn job listings, remote worldwide
+- **freehire.me** - Aggregated tech roles via the `freehire-search` CLI
+- **RemoteOK / Wellfound / company career pages** - use WebSearch fallback where no CLI exists
 
-Secondary (company career pages via Google):
+Secondary:
 - Direct Google searches with `site:` filters for known target companies
 
 ## Query Categories
 
-Queries are grouped by priority. Write **each category in every language from your Languages table** (see Language scope above). Combine each query with your location terms (e.g. your city, region, or metro area) where the site supports it.
+Queries are grouped by priority and function. Use remote/worldwide filters where the portal supports them.
 
-**Organize by function, not job title.** The same underlying work carries different titles across companies and markets (a "Data Scientist" role at one employer may be posted as "Insights Analyst" or "Data Consultant" at another). Name each priority category after the function it covers, and list several plausible job titles as query variants within that category rather than betting an entire priority tier on one exact title string.
+### Priority 1: Full-Stack SaaS Engineering
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
-
-These match your strongest and most desired career direction.
+These match the strongest and most desired direction.
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE_2]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_COUNTRY]
+site:linkedin.com/jobs "Full Stack Engineer" remote TypeScript Next.js
+site:linkedin.com/jobs "Full-Stack Developer" remote React Node.js
+site:linkedin.com/jobs "Software Engineer" remote TypeScript PostgreSQL
+site:linkedin.com/jobs "Next.js Developer" remote TypeScript
+site:linkedin.com/jobs "React Developer" remote Node.js PostgreSQL
+"Full Stack Engineer" "TypeScript" "Next.js" "remote"
+"Full-Stack Developer" "React" "Node.js" "PostgreSQL" "remote"
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
+### Priority 2: Healthtech and Medical Imaging
 
-These match your domain expertise.
-
-```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
-```
-
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
+These match domain expertise from CoreVita.
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+site:linkedin.com/jobs healthtech "Full Stack Engineer" remote
+site:linkedin.com/jobs "medical imaging" "React" remote
+site:linkedin.com/jobs DICOM "frontend" remote
+site:linkedin.com/jobs "healthcare SaaS" "TypeScript" remote
+"healthtech" "Next.js" "TypeScript" "remote"
+"DICOM" "React" "remote"
 ```
 
-### Priority 4: Broader Technical / Consulting
+### Priority 3: Multi-Tenant SaaS and Workflow Platforms
+
+Adjacent product engineering roles with strong overlap.
+
+```
+site:linkedin.com/jobs "SaaS Engineer" "multi-tenant" remote
+site:linkedin.com/jobs "Workflow Automation" "Full Stack" remote
+site:linkedin.com/jobs "Platform Engineer" TypeScript PostgreSQL remote
+site:linkedin.com/jobs "Product Engineer" TypeScript Next.js remote
+"multi-tenant SaaS" "TypeScript" "PostgreSQL" "remote"
+"workflow platform" "React" "Node.js" "remote"
+```
+
+### Priority 4: Broader Technical Roles
 
 Wider net for general technical roles.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "Frontend Engineer" React TypeScript remote
+site:linkedin.com/jobs "Backend Engineer" Node.js PostgreSQL remote
+site:linkedin.com/jobs "JavaScript Developer" remote
+site:linkedin.com/jobs "Technical Consultant" SaaS remote
+"React Developer" "TypeScript" "remote contractor"
+"Node.js Developer" "PostgreSQL" "remote contractor"
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+When evaluating results, verify location and work-rights constraints:
+- **Ideal:** Fully remote, worldwide, contractor or employee roles that explicitly accept Tunisia-based applicants
+- **Acceptable:** Remote EMEA, remote Europe/MENA, or remote roles with timezone overlap compatible with Tunisia
+- **Borderline:** Hybrid roles requiring occasional travel only if employer explicitly accepts Tunisia-based remote work
+- **Too far:** On-site or relocation-required roles without sponsorship or remote option
 
 ## Language Filter
 
-Your working languages and levels are in CLAUDE.md's Languages table. When filtering scraped results, apply `04-job-evaluation.md`'s Language Gate: a posting requiring a language you haven't declared at all is excluded; a posting requiring a higher level than you declared in a language you do work in is not excluded, flag it clearly instead (see `job-scraper/SKILL.md`'s Step 3 "Quick Fit Assessment" for how the flag surfaces in `/scrape` output). Postings simply *written* in a language you don't work in, that don't require it on the job, are fine.
+Your working languages and levels are in `CLAUDE.md`'s Languages table. When filtering scraped results, apply `04-job-evaluation.md`'s Language Gate: a posting requiring a language you have not declared at all is excluded; a posting requiring a higher level than you declared in a language you do work in is not excluded, flag it clearly instead. Postings simply written in a language you do not work in, that do not require it on the job, are fine.
 
 ## Date Filter
 
@@ -87,4 +94,5 @@ Only include jobs posted within the last 14 days, or with an application deadlin
 ## Adapting Queries
 
 If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
-- "/scrape [focus_area]" -> relevant category queries + custom focus-specific queries
+- `/scrape healthtech` -> healthtech and medical imaging queries plus custom healthtech SaaS searches
+- `/scrape next.js` -> full-stack SaaS engineering queries plus custom Next.js searches

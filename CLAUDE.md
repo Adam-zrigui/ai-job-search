@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Adam Zrigui
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Adam Zrigui, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +10,88 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Adam Zrigui
+- **Location:** Gabes, Tunisia (fully remote roles worldwide preferred; local commute constraints TBD)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | Arabic | Native / C2 |
+  | English | C1 |
+  | German | B2 working proficiency |
+  | French | B1 basic |
+  | Turkish | Basic |
+  | Malay | Professional working proficiency |
+  | Italian | A2 basic |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Full-stack software engineer, open to fully remote contractor or employee roles worldwide
+- **LinkedIn headline:** "Full-Stack Software Engineer"
+- **LinkedIn:** https://www.linkedin.com/in/adam-zrigui-2b6a65240/
+- **GitHub:** https://github.com/Adam-zrigui
+- **Email:** zriguiadam@gmail.com
+- **Phone:** (+216) 23018023
+- **Nationality:** Tunisian
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Full-Stack Software Engineering Bootcamp, MERN Stack** (Jun 2022 - Feb 2023) - GoMyCode
+  - Topics: JavaScript fundamentals, REST API design, React, Node.js, team collaboration, agile delivery
+  - Development path: self-taught HTML, CSS, JavaScript, React, Node.js, and Python independently from 2021; post-bootcamp self-study in TypeScript, Next.js, PostgreSQL/Prisma, AWS, and CI/CD
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Independent Full-Stack Software Engineer / Project Portfolio** (2024 - Present) - **Remote**
+  - Shipped three production SaaS applications using TypeScript, Next.js, Node.js, PostgreSQL, Docker, and CI/CD.
+  - Built authentication, RBAC, billing, database design, observability, and automated test coverage across production-ready applications.
+  - Developed CoreVita, a medical imaging SaaS platform with a browser-based DICOM viewer, Stripe billing, Backblaze B2 uploads, Sentry monitoring, GitHub Actions, and 127 automated tests.
+  - Developed SmartBudget, a personal finance SaaS with budgets, savings goals, investment tracking, multi-currency support, Firebase Auth, and an AI advisor fallback chain across Groq, Cohere, and HuggingFace.
+  - Developed LabFlow, a multi-tenant lab workflow SaaS with tenant isolation, immutable audit logging, GDPR-aware pseudonymized deletion, approval gates, BullMQ jobs, Docker, Kubernetes manifests, Stripe billing, and Vitest integration tests.
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma ORM, REST APIs, SaaS architecture
+- **Secondary:** Docker, Kubernetes, GitHub Actions, AWS S3, Vercel, Backblaze B2, Redis, BullMQ, Stripe, Firebase Auth, NextAuth, Sentry, Resend, Vue.js, Python basics
+- **Domain:** Full-stack SaaS, healthtech, medical imaging, multi-tenant workflow systems, personal finance applications, authentication, RBAC, billing, audit logs, CI/CD, automated testing
+- **Software:** Git, GitHub, Linux, Tailwind CSS, HTML5, CSS3, SASS, Cornerstone3D, Neon
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **HackerRank Software Engineer** - completed Jan 2025
+- **HackerRank REST API Intermediate** - completed Jan 2025
+- **HackerRank SQL Basic** - completed Jan 2025
+- **HackerRank MySQL** - completed Jan 2025
+- **HackerRank Software Development Intern** - completed Jan 2025
+- **EF SET English Certificate C1 Advanced** - completed Oct 2024
+- **HackerRank Frontend Development React** - completed Sep 2024
+- **HackerRank Base JavaScript** - completed Sep 2024
+- **HackerRank Node.js** - completed Sep 2024
+- **HackerRank Problem Solving** - completed Sep 2024
+- **HackerRank Python** - completed Sep 2024
+- **HackerRank React.js** - completed Sep 2024
+- **freeCodeCamp Responsive Web Design** - completed Mar 2022
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None listed.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None listed.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Assessment status:** Formal behavioral profile not yet provided.
+- **Known working style evidence:** Self-directed learner who moved from bootcamp and independent study into shipped production SaaS projects.
+- **Strengths:** Full-stack implementation, production ownership, practical architecture, learning speed, persistence through platform constraints.
+- **Growth areas:** TBD.
+- **Thrives in:** TBD.
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Healthtech and useful SaaS products.
+- Building production systems end-to-end.
+- Additional motivations TBD.
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- **Primary:** SaaS, healthtech, medical imaging, workflow software, fintech/personal finance
+- **Additional sectors:** TBD
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Requires on-site relocation where remote work is not available.
+- Additional deal-breakers TBD.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
@@ -133,7 +139,7 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 
 ### Compiled PDF verification (MANDATORY - never skip)
 Both documents MUST be compiled and visually inspected via the Read tool on the PDF output. "Looks fine in the .tex" is not acceptable - LaTeX page-break decisions are unpredictable. Iterate until these all pass:
-- [ ] CV compiled with **lualatex** (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors). Cover letter compiled with **xelatex** (cover.cls requires fontspec). If a custom template is active (registered via `/add-template`), compile with its declared command instead — see the `ACTIVE-TEMPLATE` block in `05-cv-templates.md`/`06-cover-letter-templates.md`.
+- [ ] CV compiled with **lualatex** (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors). Cover letter compiled with **xelatex** (cover.cls requires fontspec). If a custom template is active (registered via `/add-template`), compile with its declared command instead - see the `ACTIVE-TEMPLATE` block in `05-cv-templates.md`/`06-cover-letter-templates.md`.
 - [ ] **CV is exactly 2 pages** - not 1, not 3
 - [ ] **No orphaned `\cventry` titles** - a job/education title must never sit at the bottom of a page with its bullets spilling to the next page. Use `\needspace{5\baselineskip}` before each `\cventry` to prevent this, and `\enlargethispage{2-3\baselineskip}` to rescue a trailing section that just barely spills
 - [ ] **Cover letter is exactly 1 page** - signature block must fit with the body, never overflow
@@ -141,7 +147,7 @@ Both documents MUST be compiled and visually inspected via the Read tool on the 
 
 ### ATS & keyword verification (CV)
 ATS parsers read the PDF's embedded text layer, not the rendered page. Extract it with `python tools/verify_pdf.py cv/main_<company>_<role>.pdf --dump-text cv/main_<company>_<role>.txt` (pypdf, then `pdftotext -layout -enc UTF-8`) and verify what a parser sees. If both extractors are missing, skip the parseability items with a warning and check keyword coverage from the visual PDF read instead.
-- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `�` replacement characters, or text visible in the PDF but absent from the extraction
+- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `ï¿½` replacement characters, or text visible in the PDF but absent from the extraction
 - [ ] Email and phone appear as **literal text** in the extraction (icon-glyph noise like `MOBILE-ALT`/`Envelope` is harmless, but a contact detail carried only by an icon or hyperlink is invisible to ATS)
 - [ ] Reading order of the extracted text matches the visual order (single-column stock template is safe; multi-column custom templates are where this breaks)
 - [ ] Posting keywords covered or honestly absent - synonym-only matches tightened to the posting's exact term where truthfully applicable, keywords the profile genuinely supports added to experience bullets, genuine gaps left visible and **never stuffed**

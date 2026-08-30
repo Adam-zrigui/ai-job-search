@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma ORM, REST APIs, full-stack SaaS development, authentication, RBAC, billing, database design, CI/CD, automated testing
+**Moderate match areas:** Docker, Kubernetes manifests, GitHub Actions, AWS S3, Vercel, Backblaze B2, Redis, BullMQ, Stripe, Firebase Auth, NextAuth, Sentry, Resend, Vue.js, Python basics, AI API integration
+**Weak match areas:** Deep Python/ML engineering, mobile native development, low-level systems programming, enterprise Java/.NET stacks, formal cloud architecture certifications
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Full-stack SaaS applications, TypeScript/Next.js products, React frontend engineering, Node.js backends, PostgreSQL/Prisma data modeling, healthtech SaaS, medical imaging frontend tools, multi-tenant workflow platforms
+**Moderate:** Backend platform engineering, product engineering, fintech/personal finance applications, DevOps-adjacent implementation, AI feature integration, technical consulting for SaaS products
+**Entry-level:** Dedicated ML engineer, cloud infrastructure engineer, cybersecurity specialist, mobile engineer, formal enterprise software roles requiring long company employment history
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +107,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Build a career as a remote full-stack or software engineer on production SaaS products.
+- Prioritize roles using TypeScript, React/Next.js, Node.js, PostgreSQL, and practical product engineering.
+- Grow toward stronger ownership of architecture, reliability, testing, and production systems.
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: building end-to-end features, turning product requirements into shipped SaaS workflows, solving practical architecture constraints, improving reliability and test coverage
+- Tasks that drain: TBD from behavioral setup
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: TBD
+- **Flexibility**: Fully remote roles worldwide preferred; timezone and working-hour constraints TBD
+- **Professional development**: Growth in production engineering, architecture, testing, and full-stack SaaS delivery
 
 ### 6. Salary Benchmark (Optional)
 
