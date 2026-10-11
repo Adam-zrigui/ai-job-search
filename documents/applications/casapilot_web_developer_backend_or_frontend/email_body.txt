@@ -1,0 +1,22 @@
+Subject: Application - Web Developer (Backend or Frontend) - Adam Zrigui
+
+Dear Casapilot Hiring Team,
+
+I am applying for the Web Developer (Backend or Frontend) role at Casapilot.
+
+I am a backend-leaning full-stack engineer with 3.5+ years of hands-on experience building and operating production TypeScript, Node.js, and React applications. I have shipped three SaaS products end-to-end: CoreVita (medical imaging, RBAC, Stripe webhooks, 127 tests), LabFlow (multi-tenant B2B, immutable audit logging, BullMQ retries, tiered billing, Docker), and SmartBudget (Prisma idempotency checks, tiered LLM fallback across three providers).
+
+Casapilot's focus on customer-facing web apps and internal tools matches my strengths. I use modern tooling daily (Claude Code, GitHub Actions, PostgreSQL/Prisma) and care about reliability, testing, and maintainability.
+
+I have attached my CV and cover letter. As requested, I have also included a photo with my CV.
+
+I am based in Gabes, Tunisia (UTC+1) and open to hybrid work with your team. I would welcome the opportunity to contribute to Casapilot's platform.
+
+Thank you for your time.
+
+Best regards,
+Adam Zrigui
+zriguiadam@gmail.com
++216 23018023
+https://www.linkedin.com/in/adam-zrigui-2b6a65240/
+https://github.com/Adam-zrigui
