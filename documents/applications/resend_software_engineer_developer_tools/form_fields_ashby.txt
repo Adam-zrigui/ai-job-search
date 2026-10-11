@@ -1,0 +1,14 @@
+Resend - Software Engineer, Developer Tools (Ashby form draft)
+Date: 2026-10-11
+Status: DRAFT - paste into form only if free-text appears; verify against live form first.
+
+If Additional information appears:
+I build and operate TypeScript/Node.js production services. CoreVita (127 tests, RBAC, Stripe webhooks, plan gating), LabFlow (multi-tenant, immutable audit, BullMQ retries, tiered billing, Docker), SmartBudget (Prisma idempotency, tiered LLM fallback across three providers). Daily Claude Code user; familiar with agent-facing surfaces (MCP/CLI) from user side. Resend is in my stack; want to extend DX to agent experience. UTC+1 (Tunisia), aligned to European timezones, open to offsites.
+
+If Why are you interested appears:
+I use Resend and want to build DevTools surfaces other developers depend on. Focus on reliability (authz/authn, idempotency, retries, partial failures) and ownership after launch. Daily Claude Code use means I think agents as users; Resend's AX direction matches. Ready to apply backend reliability to SDK/CLI/MCP surfaces.
+
+NOTE TO SELF (not for pasting):
+- Do not claim OSS/SDK/CLI maintenance with external contributors (explicit gap).
+- Do not claim rate limits; frame usage limits/plan gating only if asked.
+- All claims trace to CV/cover/profile.

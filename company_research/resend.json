@@ -1,0 +1,31 @@
+{
+  "company": "Resend",
+  "fetched_date": "2026-10-10",
+  "sources": {
+    "website": {
+      "url": "https://resend.com/",
+      "notes": "Self-described mission: 'Resend is the email API for developers. Send transactional and marketing emails at scale with a simple, modern API.' (E, fetched homepage). Developer-tool surface confirmed on the homepage: official SDKs for Node.js, Python, PHP, Ruby, Go, Java, Laravel, Rust, .NET; a CLI (resend-cli); a remote MCP server (mcp.resend.com/mcp); Agent 'Skills' discovery; React Email (react.email) for building templates; transactional email API (POST /emails, /emails/batch up to 100), marketing email (contacts, segments, broadcasts, automations), inbound email via webhooks, domain verification (SPF/DKIM/DMARC). (E)"
+    },
+    "media": {
+      "url": "https://resend.com/blog/series-a",
+      "notes": "Post 'Resend raises $18M Series A', created_at 2024-12-04: '$18M Series A led by Andreessen Horowitz' (a16z). Existing investors Y Combinator and Basecase expanded; angels include Guillermo Rauch and Michael Grinich; new investors Ali Rowghani and Eric Muntz. (E). Prior public launch ~18 months before; 'more than 200,000 developers have signed up' as of Dec 2024 (E, time-bound); customers named: Warner Brothers, Decathlon, Braintrust, Raycast (E). Open-source project React Email 'just crossed 300,000 weekly downloads on npm, 14,000 stars on GitHub, and more than 130 contributors' (E, Dec 2024). Stated strategic priorities after the raise: (1) Reliability ('infrastructure, scalability, uptime, and performance'), (2) Product (receiving email, segmentation, personalization), (3) Support (support as core value, not cost center). (E)"
+    },
+    "media2": {
+      "url": "https://resend.com/blog/agent-experience.md",
+      "notes": "Post 'What is AX (Agent Experience) and how to improve it' by Zeno Rocha, created_at 2025-02-19, updated 2026-08-27: frames 'AX (Agent Experience)' as the successor/extension to DX: 'AX doesn't replace DX; it extends it.' Sections cover onboarding, documentation ('documentation is not adjacent to the product - documentation is the product'), SDKs (well-structured REST API + OpenAPI spec as the best 'SDK' for agents; MCP servers), audit logs (distinguish human vs agent actions), API keys (agents creating/rotating keys), RBAC (finer-grained permissions for agents; human confirmation for destructive actions). Closing: Resend wants to be 'the email for developers' and 'the email for agents' too. (E)"
+    },
+    "media3": {
+      "url": "https://resend.com/blog/resend-cli-2.md",
+      "notes": "Post 'Resend CLI 2.0', created_at 2026-04-15: CLI 2.0 adds sending emails from local React Email files (.tsx/.jsx), automations and events, local webhook listening, and 'Skills for AI agents'. CLI exposes 50+ commands across the full Resend API; API keys stored in OS keychain. (E). Confirms React Email and agent Skills are active developer-tool products."
+    },
+    "media4": {
+      "url": "https://resend.com/docs/mcp-server",
+      "notes": "Docs confirm a hosted remote MCP server at https://mcp.resend.com/mcp and a self-hostable open-source MCP server (npm resend-mcp, github.com/resend/resend-mcp). MCP tools span emails, received emails, inboxes (beta), templates, contacts, broadcasts, automations, events, domains, segments, topics, contact properties, API keys, webhooks, logs, editor. Auth via OAuth or Bearer API key. (E)"
+    },
+    "media5": {
+      "url": "https://www.ycombinator.com/companies/resend",
+      "notes": "YC company page: batch 'Winter 2023' (W23), founded 2023, status Active, YC-listed team size 45 (E, as of fetch). Founders: Zeno Rocha (Founder/CEO; previously VP Developer Experience at WorkOS, CPO at Liferay Cloud) and Bu Kinoshita (Co-founder/CTO, building react.email; first eng hire at WorkOS). Original launch: 'Resend - Email API for developers'; Paul Graham quoted as calling Resend 'the Stripe for Email'. Note: the job posting states ~50 people across 15 countries; YC page lists 45 - both are close, use posting figure for team size and note YC's 45. (E/I)"
+    }
+  },
+  "network_contacts_note": "None identified. Note for applicant: this is a fully-remote role based in Americas or European timezones; Resend is a US company (YC W23), so any hire from Tunisia would likely run through a contractor or employer-of-record arrangement rather than a US work visa. Candidate is applying via the Tunisia-remote stream (fully remote from Gabes accepted)."
+}

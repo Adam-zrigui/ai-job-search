@@ -1,0 +1,142 @@
+%% CV - Adam Zrigui - Resend, Software Engineer, Developer Tools
+%% Compile with: lualatex adam_zrigui_resend_software_engineer_developer_tools.tex
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+\renewcommand*{\namefont}{\fontsize{34}{36}\bfseries\upshape}
+\colorlet{firstnamecolor}{color1}
+\colorlet{lastnamecolor}{color1}
+\colorlet{namecolor}{color1}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
+
+\usepackage[utf8]{inputenc}
+\AtEndPreamble{\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdftitle={Adam Zrigui - CV},
+    pdfpagemode=UseNone,
+}}
+\usepackage[scale=0.80]{geometry}
+\usepackage{import}
+
+% personal data
+\name{Adam}{Zrigui}
+\address{Gabes, Tunisia}{}{}
+\phone[mobile]{(+216) 23018023}
+\email{zriguiadam@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/adam-zrigui-2b6a65240/}{LinkedIn}, \href{https://github.com/Adam-zrigui}{GitHub}}
+
+\begin{document}
+
+\makecvtitle
+
+\vspace{6pt}
+\small{Backend-leaning software engineer with 3.5+ years building and operating production TypeScript and Node.js services, from freelance client delivery starting in 2021 to three shipped SaaS products. Owns APIs end to end: authentication, role-based access, idempotency, webhook handling, queue-based retries, and failure-tolerant integrations across Stripe, Firebase, and LLM providers. Resend is already a tool I use in my stack. I work from Gabes, Tunisia (UTC+1) in the European timezone band and use Claude Code daily, so I experience agent-facing developer tools from the user side.}
+
+\section{Core Competencies}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{Backend TypeScript/Node.js}: production APIs and services, REST design, PostgreSQL schema design, Prisma ORM.
+\item \textbf{API reliability}: authentication and authorization, idempotency checks, webhook handling, BullMQ background jobs with retries, graceful handling of partial failures.
+\item \textbf{Integrations and tooling}: Stripe billing, Firebase Auth, Sanity CMS, Sentry monitoring, Resend; AI model integrations with tiered fallback chains.
+\item \textbf{Developer workflows}: CI/CD with GitHub Actions, Docker, unit and integration testing (127 tests across 17 files on CoreVita), ongoing maintenance after launch.
+\item \textbf{Frontend and agent tooling}: React 19, Next.js 16; frontend interfaces plus daily work in Claude Code, where I use agent-facing developer tooling from the user side.
+\end{itemize}
+
+\section{Professional Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\item{\cventry{Sep 2025 - Jan 2026}{Freelance Full-Stack Developer - fitPro}{Middle East client}{Remote}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Shipped an online fitness course platform with fitness and nutrition tracking for a Middle East-based client, owning the engagement end to end. Maintained and improved the platform after launch through January 2026.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\item{\cventry{2021 - 2022}{Freelance Full-Stack Developer - Fiverr}{Remote}{}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Delivered a custom Next.js 12 e-commerce website for a paying book-retailer client, using Sanity as headless CMS and Stripe for payments, owning requirements, implementation, and handoff.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\end{itemize}
+
+\section{Project Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\item{\cventry{2026}{Medical Imaging Platform}{CoreVita}{Remote}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Architected a production SaaS platform with authentication, RBAC for 4 roles, Stripe billing with webhook handling and plan-based gating, relational data modeling, and CI/CD deployment.}
+    \item {Implemented a browser-based DICOM viewer with window/level, zoom, pan, cine loop, side-by-side comparison, and tokenized sharing links.}
+    \item {Wrote 127 automated tests across 17 files, executed on every push through GitHub Actions; added Sentry monitoring for error tracking.}
+    \item {Live: \href{https://corevita.vercel.app}{corevita.vercel.app} | GitHub: \href{https://github.com/Adam-zrigui/corevita}{github.com/Adam-zrigui/corevita}}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\item{\cventry{2026}{Multi-Tenant Lab Workflow Platform}{LabFlow}{Remote}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Designed a multi-tenant SaaS platform tracking lab samples through configurable workflows with strict tenant data isolation.}
+    \item {Resolved the GDPR erasure vs. audit-integrity conflict with an immutable, append-only audit log and pseudonymized deletion.}
+    \item {Implemented role-based approval gates, tiered Stripe billing with usage limits, BullMQ background jobs with retries, Docker and Kubernetes manifests, and Vitest integration tests.}
+    \item {Live: \href{https://labflow-beige.vercel.app}{labflow-beige.vercel.app} | GitHub: \href{https://github.com/Adam-zrigui/Labflow}{github.com/Adam-zrigui/Labflow}}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\item{\cventry{2024}{Personal Finance SaaS}{SmartBudget}{Remote}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Built a full finance SaaS application end-to-end with Next.js, TypeScript, PostgreSQL/Prisma, Firebase Auth, and Vercel.}
+    \item {Implemented budgets, savings goals, investment tracking, multi-currency support, protected routes, and Prisma-based idempotency checks.}
+    \item {Engineered an AI financial advisor with a tiered fallback chain across Groq, Cohere, and HuggingFace, keeping the service available through third-party API outages.}
+    \item {Live: \href{https://smart-budget-rho.vercel.app}{smart-budget-rho.vercel.app} | GitHub: \href{https://github.com/Adam-zrigui/SmartBudget}{github.com/Adam-zrigui/SmartBudget}}
+\end{itemize}}}
+
+\end{itemize}
+
+\section{Education}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{Jun 2022 - Feb 2023}{Full-Stack Software Engineering Bootcamp, MERN Stack}{GoMyCode}{Tunisia}{}{\vspace{1pt}
+Intensive structured program covering JavaScript fundamentals, REST API design, team collaboration, and agile delivery. Continued independently with TypeScript, Next.js, PostgreSQL/Prisma, AWS, and CI/CD. Self-taught programming began in 2021 before the bootcamp: C++ (command-line tools), Python (Discord automation bots), and C\#/Unity (multiplayer FPS with real-time networking).
+}}
+\end{itemize}
+
+\section{Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item {Forage Software Engineering Job Simulation - Sep 2026 (RESTful web service design and implementation, data upload, unit testing; verification code 6a8359455bd0df9734746440).}
+\item {HackerRank Software Engineer, REST API Intermediate, SQL Basic, MySQL, and Software Development Intern - Jan 2025.}
+\item {EF SET English Certificate C1 Advanced - Oct 2024.}
+\item {HackerRank Frontend Development React, Base JavaScript, Node.js, Problem Solving, Python, and React.js - Sep 2024.}
+\item {freeCodeCamp Responsive Web Design - Mar 2022.}
+\end{itemize}
+
+\section{Languages}
+\vspace{1pt}
+\begin{itemize}
+\item {English (C1, EF SET), German (B2 working proficiency, B1 certified \"{O}SD), Arabic (Native), French (B1), Malay (professional working proficiency), Turkish (basic), Italian (A2).}
+\end{itemize}
+
+\section{Volunteering}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{Feb 2024 - Present}{Volunteer}{Red Crescent Tunisia}{Tunisia}{}{\vspace{1pt}
+Disaster relief, first-aid training, and distributing aid to local communities.
+}}
+\end{itemize}
+
+\section{References}
+\vspace{1pt}
+\begin{itemize}
+\item{Available upon request.}
+\end{itemize}
+
+\end{document}

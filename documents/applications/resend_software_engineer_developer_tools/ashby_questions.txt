@@ -1,0 +1,9 @@
+Q1: Why do you want to join us?
+
+I use Resend in my stack, and I want to help build the DevTools surfaces other developers depend on. What excites me is making email dependable and ergonomic for developers: SDKs, CLI, and MCP that fit the workflows people already use. My background in TypeScript/Node.js production services (CoreVita with 127 tests + RBAC/Stripe webhooks/plan gating; LabFlow with multi-tenant isolation, immutable audit, BullMQ retries, tiered billing, Docker; SmartBudget with Prisma idempotency and a tiered LLM fallback across three providers) has taught me reliability details like retries, idempotency, partial failures, and ownership after launch. As a daily Claude Code user, I think about agents as users too; Resend's Agent Experience direction matches what I see in practice. I envision my role as strengthening the reliability and ergonomics of the SDKs/CLI/MCP/integrations so that both developers and agents can depend on Resend as usage grows.
+
+---
+
+Q2: Tell us a little bit about your favorite Open Source project!
+
+My favorite open source project is FastAPI. It stands out because it prioritizes developer experience without compromising correctness: automatic validation, clear type-driven contracts, and excellent docs that let you ship APIs quickly and safely. Those same qualities (clear errors, useful documentation, backward compatibility) are what drew me to Resend's DevTools focus. FastAPI's thoughtful defaults show how good tooling multiplies productivity, which is exactly the kind of craft I want to help bring to Resend's SDKs, CLI, and MCP surfaces.

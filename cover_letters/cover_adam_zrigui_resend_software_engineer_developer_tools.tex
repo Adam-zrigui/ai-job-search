@@ -1,0 +1,52 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cover Letter - Resend, Software Engineer, Developer Tools
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{cover}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\rfoot{Page \thepage \hspace{0pt}}
+\thispagestyle{empty}
+\renewcommand{\headrulewidth}{0pt}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TITLE NAME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{}{\Huge{Adam Zrigui}}{  \href{mailto:zriguiadam@gmail.com}{zriguiadam@gmail.com} | (+216) 23018023 |  \urlstyle{same}\href{https://www.linkedin.com/in/adam-zrigui-2b6a65240/}{LinkedIn} | \urlstyle{same}\href{https://github.com/Adam-zrigui}{GitHub}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     MAIN CONTENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\currentdate{\today}
+\lettercontent{Dear Resend DevTools team,}
+
+\lettercontent{I am applying for the Software Engineer, Developer Tools role. Resend is already part of my stack, and the DevTools Squad builds the layer I live closest to: the APIs and integrations other developers depend on, plus the SDK, CLI, and MCP surfaces I already use as a developer. Building that layer for other developers is the work I want to grow into.}
+
+\lettercontent{I am a backend engineer who works in TypeScript and Node.js on production services. My recent work centers on the reliability concerns your posting names: authentication, authorization, idempotency, retries, and partial failures. Since 2024 I have shipped three production SaaS products end to end:}
+
+{\raggedright\fontspec[Path = OpenFonts/fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont
+\begin{itemize}
+    \item {Built CoreVita, a medical imaging SaaS, owning authentication, RBAC across four roles, Stripe billing with webhook handling and plan-based feature gating, backed by 127 automated tests run in GitHub Actions.}
+    \item {Shipped LabFlow, a multi-tenant B2B platform, with strict tenant isolation, immutable audit logging, BullMQ background jobs with retries, and tiered billing, containerized with Docker.}
+    \item {Designed SmartBudget with Prisma-based idempotency checks and an AI advisor that runs on a tiered fallback chain across three LLM providers, staying available through provider outages.}
+\end{itemize}\par}
+\vspace{6pt}
+
+\lettercontent{I also think about agents as users, because I am one. I work daily in Claude Code, which connects to developer ecosystems through MCP and CLI tooling, so I experience agent-facing interfaces from the user side and know what makes them discoverable and safe. Resend's own position, that agent experience extends developer experience rather than replacing it, is the direction I want to build in. I understand the weight of maintaining software in production: my projects are live and public on GitHub, and I keep them running after launch.}
+
+\lettercontent{One honest gap: I have not yet shipped a public SDK, CLI, or MCP server, and my open work is my own repositories rather than a maintained OSS project with external contributors. That is the edge I want to step into, and building interfaces for other developers is where my day-to-day work already points. I am based in Gabes, Tunisia (UTC+1), in the same timezone band as your European teammates, and I can travel for offsites and meetups.}
+
+\lettercontent{I would welcome the chance to work on a codebase at Resend's scale, and I look forward to hearing from you.}
+
+\begin{flushright}
+\closing{Best regards,}
+
+\signature{Adam Zrigui}
+\end{flushright}
+\end{document}

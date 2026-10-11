@@ -1,0 +1,1093 @@
+﻿date
+company
+sector
+role
+role_type
+channel
+status
+contact_person
+fit_rating
+notes
+cv_file
+cover_letter_file
+source,deadline
+2026-08-30
+Snke
+Healthtech
+Senior Software Engineer (Full-Stack) - Healthcare Applications
+Full-time
+online
+rejected
+Tatjana von Freyberg
+87
+"Employer Personio posting live
+ no stated deadline (arbeitnow flagged 2026-08-30); visa sponsorship not stated in ad; Submitted 2026-08-30 via Personio (CV only
+ no cover upload); Rejected 2026-09-07 (from Snke OS GmbH via Selina Feldengut, Recruiting Assistant, MÃƒÂ¼nchen): continuing with candidates whose experience more closely matches; no other entry"
+cv/main_snke_senior_software_engineer.tex,cover_letters/cover_snke_senior_software_engineer.tex,https://snke.jobs.personio.com/job/2749471?language=en,2026-08-30
+2026-08-30
+go-e Labs GmbH
+E-mobility
+Backend Software Engineer (m/f/x)
+Full-time
+online
+rejected
+
+88
+"BA-listed salary 60-70k EUR/yr (below ~80k Munich benchmark); hybrid Berlin (Waldenserstr. 2-4); visa sponsorship silent on form; apply via go-e.com careers form (CV or LinkedIn required
+ optional cover note on a backend project); BA ref 10001-1003594238-S; Submitted 2026-08-30 via go-e.com careers form; Rejected by email 2026-09-01 from Viktoriia Tistruha (go-e Recruiting) - moved ahead with other candidates
+ no specific feedback."
+cv/main_goe_labs_backend_software_engineer.tex,cover_letters/cover_goe_labs_backend_software_engineer.tex,https://go-e.com/en/about-us/jobs/4948830101,
+2026-08-30
+MedNet EC-REP GmbH
+Medical Equipment Manufacturing
+TypeScript Full Stack Developer (m/w/d)
+Full-time
+portal
+rejected
+Stefan Selle
+80
+"German job ad; German full-stack TS role; posting silent on visa sponsorship (candidate requires employer sponsorship - flagged); contact Stefan Selle stefan.selle@mednet-ecrep.com; 48h response guarantee; hybrid Muenchen; applied 2026-08-30; Rejected 2026-09-02 by email from Stefan Selle - generic rejection (nicht in Betracht ziehen kunnen)
+ no specific feedback"
+cv/main_mednet_ecrep_typescript_full_stack_developer.tex
+cover_letters/cover_mednet_ecrep_typescript_full_stack_developer.tex,https://www.linkedin.com/jobs/view/4457247085,
+2026-08-31
+Ole KG
+B2B SaaS (Handwerk/SHK)
+Full-Stack Developer (w/m/d)
+Full-time
+online
+rejected
+
+84
+"German CV (2p) + cover letter (1p) written in German; SHK-Handwerk KI-assistent startup
+ Bielefeld
+ built with real Handwerksbetriebe (Wiedemann-Gruppe spin-off); AI-centric product aligns with candidate AI-integration profile; visa sponsorship (EU Blue Card / Beschaeftigungsvisum) requested in cover letter
+ relocating from Tunisia; Starttermin + Gehaltsvorstellung deferred to interview; posted via LinkedIn; 84.35 Strong Fit (/rank --all 2026-08-31)",cv/main_ole_full_stack_developer_w_m_d.tex,cover_letters/cover_ole_full_stack_developer_w_m_d.tex,https://www.linkedin.com/jobs/view/4457302724,
+2026-09-01
+Speed U Up GmbH
+Hotel-/Tourismus-Tech (KI/Hospitality)
+Full-Stack Developer (m/w/d)
+Full-time
+online
+rejected
+He-Kyung Jorczyk
+79
+"German CV (2p) + cover letter (1p) in German; Thoesch (Speed U Up venture studio) hospitality-voice/KI startup; verified growth metric 3->50+ Hotels / 3
+000 Zimmer; language gate FLAG (German B2 working lang
+ no explicit CEFR bar); visa silent in ad - EU Blue Card / 18d requested in cover letter; 79.0 Strong Fit (/rank 2026-08-31); Submitted 2026-09-01 via SmartRecruiters; Rejected 2026-09-01 by email from He-Kyung Jorczyk (Speed U Up GmbH) - generic (same-day rejection
+ likely pre-screen on German level 'sehr gute Deutschkenntnisse' + Austria location-fit); verbatim: 'andere Kandidaten unserem Qualifikationsprofil fÃƒÆ’Ã‚Â¼r dieser Stelle noch treffender entsprachen'; no specific feedback",cv/main_speed_u_up_full_stack_developer.tex,cover_letters/cover_speed_u_up_full_stack_developer.tex,https://jobs.smartrecruiters.com/SpeedUUpGmbH/744000145946139-softwareentwickler-in-full-stack-developer-m-w-d-,
+2026-09-01
+Redcare Pharmacy
+E-health / Retail Media (AdTech)
+"Senior Engineer
+ Full Stack (Retail Media / AdTech Solutions) (m/f/d)"
+Full-time
+online
+applied
+Gular Jafarova
+77
+"English CV + cover letter per user override (posting is in English); visa sponsorship confirmed (explicit FAQ
+ SPONSORS); hybrid Cologne; source_language English; gaps: MongoDB/Algolia
+ Formik/JSONSchema, Material-UI, AdTech domain; strengths TS/Node microservices, React, Next.js, BullMQ/Redis queuing, CI/CD, 127 tests, shipped AI features; Submitted 2026-09-01 (channel online)",cv/main_redcare_senior_engineer_full_stack.tex,cover_letters/cover_redcare_senior_engineer_full_stack.tex,https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000141426362-senior-engineer-full-stack-retail-media-adtech-solutions-m-f-d-,
+2026-09-01
+Clera
+AI platform (AI talent/talent SaaS)
+Product Engineer (Full-Stack)
+Full-time
+online
+applied
+
+77
+"English CV + cover letter per posting language (user override
+ matches new posting-language rule); visa sponsorship EXPLICIT 'Visa sponsorship is available' (eligibility PASS); on-site Berlin full-time
+ no remote; salary band 66k-120k; tRPC gap acknowledged honestly in cover letter (typed TS/Prisma contracts
+ natural extension); company identity verified: posting JSON-LD sameAs=getclera.com (AI talent agent) - reviewer's 'different Berlin AI platform' claim rejected as unverified aggregator noise; CV lualatex 2p verified; cover xelatex 1p verified; ATS text-layer extraction clean (pypdf)",cv/adam_zrigui_clera_product_engineer.tex,cover_letters/cover_clera_product_engineer.tex,https://jobs.ashbyhq.com/clera/48f5376d-0222-4b2e-bf43-4d68d0ece121,
+2026-09-01
+Caidera GmbH
+HealthTech (AI agents for Pharma/MedTech marketing)
+Fullstack-Entwickler (w/m/d) - Gruendungsteam
+Full-time
+online
+applied
+Max Sieg
+86
+"German CV (2p) + cover letter (1p) in German per posting-language rule; exact core stack Next.js/TS/Node/React (+ optional LlamaIndex noted); language FLAG (fliessend Deutsch vs B2) + location/visa FLAG (Berlin residence vs Tunisia
+ Blue Card requested) both addressed transparently in cover letter; Xing URL dead -> canonical JOIN posting Job ID 16637476
+ identity verified via caidera.ai; company facts grounded (founded 2024
+ co-founders Max Sieg + Daniel Fernau, ~300k EUR pre-seed, compliance marketing for Pharma/MedTech); reviewer Part A edits applied; CV lualatex 2p + cover xelatex 1p verified; ATS text layer clean; 86.2 Strong Fit (/rank); applied 2026-09-01",cv/adam_zrigui_caidera_fullstack_entwickler_w_m_d.tex,cover_letters/cover_adam_zrigui_caidera_fullstack_entwickler_w_m_d.tex,https://join.com/companies/caideraai/16637476-fullstack-entwickler-w-m-d-gruendungsteam-bei-healthtech-startup,
+2026-09-01
+Steuerbot GmbH
+Steuer/Tax-Fintech
+Senior Fullstack-Entwickler:in (w/m/d)
+Full-time
+online
+applied
+
+81
+"German CV (2p) + informal response (1p) per posting request (no formal Anschreiben); TypeScript/React fullstack + CI/CD + 127 tests + Claude Code daily + LLM integration; shared team Steuerbot + Taxfix (Fellbach/Stuttgart hybrid); no explicit German language requirement (B2 PASS
+ no FLAG); applicantLocationRequirements Germany - visa/Blue Card needed; 80.8 Strong Fit (/rank 2026-08-31); reviewer PASS (fixed user count 500k->400k+ per steuerbot.com); applied 2026-09-01"
+cv/adam_zrigui_steuerbot_senior_fullstack_entwickler.tex
+cover_letters/cover_adam_zrigui_steuerbot_senior_fullstack_entwickler.tex,https://jobs.ashbyhq.com/steuerbot/814841f5-8159-4e2a-bb35-cf1062acab68,
+2026-09-01
+Nelly Solutions
+Healthtech fintech (AI financial OS for healthcare)
+"Senior Software Engineer
+ Node.js"
+Full-time
+online
+applied
+
+81
+"English CV (2p) + cover letter (1p) per posting language (English posting); healthtech+fintech intersection matches CoreVita + SmartBudget exactly; backend-leaning Node/TS/React/Next.js/PostgreSQL; Claude Code daily matches Nelly AI-first culture (AI isn't a nice-to-have""); posting invites <100% match applicants - gaps framed honestly (5+ yrs"
+ deep AWS/IaC
+" query-perf tuning at scale); visa silent in ad -> Blue Card/skilled-worker visa requested in cover; hybrid Berlin; Series B; reviewer PASS (1 typo fix + CV summary/tailoring edits); 80.6 Strong Fit (/rank 2026-08-31); not yet submitted""",cv/adam_zrigui_nelly_senior_software_engineer_node_js.tex,cover_letters/cover_adam_zrigui_nelly_senior_software_engineer_node_js.tex,https://jobs.ashbyhq.com/nelly/8625294a-ed69-4d6b-99a2-d917bee97ef4,
+2026-09-01
+Nejo (agency; client anonymous)
+Staffing/AI implementation (LLM/RAG client)
+AI Engineer (LLM/RAG) (m/w/d)
+Full-time
+online
+applied
+
+75
+"English CV (2p) + cover letter (1p) per posting language; agency posting via Nejo (join.com) for anonymous client running production LLM pipelines (TS/Next.js/Postgres pgvector/Azure); strength: live LLM feature (SmartBudget AI advisor on Groq/Cohere/HuggingFace fallback chain) + idempotency/BullMQ/approval gates reliability + daily Claude Code; gaps disclosed honestly: RAG production depth
+ pgvector
+ Anthropic/OpenAI SDKs
+ evals/tracing, document parsing - reviewer grounding audit (removed ungrounded retries claims); fit moderated 75 (stored rank 80); hybrid Cologne, salary from 60k; visa silent -> sponsorship requested; contact Jonas Wenzl; not yet submitted",cv/adam_zrigui_nejo_ai_engineer_llm_rag_m_w_d.tex,cover_letters/cover_adam_zrigui_nejo_ai_engineer_llm_rag_m_w_d.tex,https://join.com/companies/mynejocom/16605066-ai-engineer-llm-rag-m-w-d,
+2026-09-01
+Dr7.ai
+Medical AI platform (LLM/API gateway)
+Full-Stack Engineer (Next.js/TypeScript) - Medical AI Platform
+Full-time
+portal
+rejected
+Adam Zrigui
+80
+"English CV (2p) + email-ready short note (1p) per posting; medical AI API gateway for healthcare LLMs (GPT-4 Med/Med-PaLM 2/MedGemma/BioGPT/LLaVA-Med); strong: Next.js/TS trio (CoreVita healthtech RBAC/Stripe
+ LabFlow tenant isolation/audit/BullMQ gates
+ SmartBudget LLM fallback chains) + daily Claude Code; apply = email note + GitHub/LinkedIn to talent@dr7.ai (decoded Cloudflare cfemail) - posting dated 2025-12-30 (~8mo
+ staleness FLAG); work-mode ambiguous remote-friendly (on-site/hybrid constraint FLAG, user OK); visa silent -> sponsorship requested; reviewer PASS after grounding: blocked oversell of API-key mgmt/onboarding/rate-limit/real-time + production LLM retitled; fit 80 (rank 79.8)",cv/adam_zrigui_dr7_ai_fullstack_engineer_nextjs_typescript_medical_ai_platform.tex,cover_letters/cover_adam_zrigui_dr7_ai_fullstack_engineer_nextjs_typescript_medical_ai_platform.tex,https://www.eu-startups.com/job/full-stack-engineer-next-js-typescript-medical-ai-platform/
+2026-09-01
+IKIM (Uniklinikum Essen)
+Research Services / Medical AI platform
+Full Stack Engineer (w/m/d): Medical AI Platform
+Full-time
+on-site
+applied
+Adam Zrigui
+79
+"German CV (2p) only - posting says CV sufficed (kein Anschreiben noetig)
+ apply via LinkedIn; IKIM builds AI-infra layer for clinical workflows (MeDict dictation live in Essen hospitals); backend Node/Express/PostgreSQL/Prisma/Redis/Socket.io near-identical; frontend Vue-3-primary vs React/Next (framework secondary per posting); on-prem K8s/Helm/Keycloak/HL7 is honest gap; hybrid 4d on-site Essen + 1 HO matches constraint; relocation support; no CS degree but posting has or comparable qualification clause (arguable
+ TV-L role); German B2 at line (may be verbally checked); reviewer PASS: removed Query-Optimierung/Incident-Handling
+ DSGVO-bewusst wording, grammar fix, Redis added; fit 79 (rank 78.9)",cv/adam_zrigui_ikim_full_stack_engineer_medical_ai_platform.tex,,https://www.linkedin.com/jobs/view/4457002560
+2026-09-01
+Filen Cloud Dienste UG
+Cloud storage (E2E-encrypted)
+Senior Full-Stack Developer (React + React Native & TypeScript) (m/f/d)
+Full-time
+on-site
+skipped
+Adam Zrigui
+
+"SKIPPED after evaluation: role is mobile-first frontend (React Native + Maestro must-have
+ Electron/Kotlin/Swift) - zero mobile/desktop background; backend Node/Pg irrelevant here; no-degree culture + 70-100k EUR attractive but core skill absent; stored rank 78.45 deemed inflated (Strong Fit verdict vs hard RN gap); user agreed to skip; located Recklinghausen"
+
+,https://jobs.instaffo.com/de/job/senior-full-stack-developer-react-react-native-typescript-m-f-d-673293ffd000
+2026-09-01
+rootglobal
+Climate tech (F&B farm-level emissions data)
+Full Stack Engineer
+Full-time
+on-site
+applied
+Adam Zrigui
+75
+"English CV (2p) + cover (1p); Root Global = Europe #1 primary data collection for F&B farm-level emissions (Scope 3.1)
+ >10m raised
+ enterprise live; core stack hit: React/Next + Node/TS + PostgreSQL; Nest.js minor delta (posting: applicant defines stack); gaps: AWS S3-centric vs broad AWS infra + data pipelines/analytics emphasis
+ end-user-style SaaS vs B2B, domain new; on-site Berlin matches constraint; visa silent -> sponsorship requested; posting 2025-10-28 approx 10mo old (staleness); reviewer FAIL -> full correction: removed Playwright/CI-CD-for-every-product/concept-to-release/analytics inference/Conceived/structured-error/everyday + B2B self-demotion and unsourced climate motivation in cover; one honest edge kept (S3-centric AWS); fit moderated 75 (rank 77.5)",cv/adam_zrigui_rootglobal_full_stack_engineer.tex,cover_letters/cover_adam_zrigui_rootglobal_full_stack_engineer.tex,https://jobs.ashbyhq.com/rootglobal/9c59cf47-feb2-4d33-8d1c-058b06ed6978
+2026-09-02
+rocks media GmbH
+Commerce Content / Advertising Services
+Sr. Fullstack Engineer (m/w/d)
+Full-time
+portal
+applied
+Adam Zrigui
+89
+"German posting; TS/Node/Next/React/Postgres/Supabase/RLS stack; Bonn on-site/hybrid; ~36 employees; AI-supported dev (Cursor
+ Claude); language FLAG sehr gute Deutschkenntnisse vs B2; sponsorship silent -> PROCEED unverified; apply via Personio (rocksmedia.jobs.personio.de/job/1206508); German CV (2p) + cover (1p); reviewer APPROVE WITH NOTES: fixed B2B claim SmartBudget->B2C
+ trimmed languages
+ strengthened language anchor, personalized why-company, acknowledged Drizzle/CF Workers gap; fit 89 (rank 88.8) | 2026-09-07 rejected (rocks media recruiting email): generic, 'andere Bewerbungen unserem Anforderungsprofil noch nÃƒÂ¤her kommen' - resume-screen, no interview",cv/adam_zrigui_rocks_media_sr_fullstack_engineer.tex,cover_letters/cover_adam_zrigui_rocks_media_sr_fullstack_engineer.tex,https://www.linkedin.com/jobs/view/4458178903
+2026-09-02
+JUMiNGO
+LogTech (Expressversand)
+Product Engineer (m/w/d)
+Full-time
+portal
+applied
+Adam Zrigui
+85
+"German posting; LogTech scaleup Cologne; features from idea to live + UI/UX decisions + testing + AI tooling; language gate: Gutes Deutsch (weaker than sehr gut) vs B2; logistics domain gap (Incoterms/HS-Codes/Zoll) honest - they say die Fachthemen lernst Du bei uns; hybrid 3d office 2d remote; sponsorship silent -> PROCEED unverified; apply via Personio (jumingo.jobs.personio.com/job/2754971); German CV (2p) + cover (1p); reviewer REVISE -> fixed B2 overclaim (removed Berufsniveau)
+ fixed run-on sentence
+ removed Zolltarifierung; fit 85 (rank 84.8)"
+cv/adam_zrigui_jumingo_product_engineer.tex,cover_letters/cover_adam_zrigui_jumingo_product_engineer.tex,https://www.linkedin.com/jobs/view/4458759166
+2026-09-02
+GlassFlow
+Data infrastructure (AI agents)
+Full Stack Engineer
+Full-time
+online
+applied
+Benjamin Gorski
+82
+"English posting; Berlin startup founded 2023
+ ~6-10 employees; AI agent data infra (Tares correlated data + Rius observability); $5.9M seed (Upfront
+ Robin Capital
+ HTGF, CEO of GitHub); one of first fullstack engineers, direct CTO collaboration; stack Next.js/React/TS + Python/Go (plus); AWS/K8s/Docker/GH Actions; NO German requirement (English-first, clean language gate PASS); hybrid Berlin; sponsorship silent -> PROCEED unverified; apply via JOIN direct apply (join.com/companies/getglassflow/16655015); English CV (2p) + cover (1p); reviewer APPROVE WITH NOTES: standardized full-stack spelling, split long sentence, strengthened closing; fit 82 (associate-level role)",cv/adam_zrigui_glassflow_full_stack_engineer.tex,cover_letters/cover_adam_zrigui_glassflow_full_stack_engineer.tex,https://join.com/companies/getglassflow/16655015-full-stack-engineer
+2026-09-02
+Verisk
+Insurance data/analytics
+Senior Backend Engineer NodeJS/TypeScript
+Full-time
+LinkedIn
+drafted
+
+88
+"Cologne; Verisk Med digital claims platform; STRONG match: NestJS core
+ PostgreSQL
+ event-driven
+ microservices, multi-tenant SaaS (LabFlow), AI-assisted engineering (Claude Code/Copilot explicitly); seamless German req (only very good English); salary 78-85k; backend-focused (not full-stack) but exceptional platform fit; prior session follow-up; drafted English CV (2p) + cover (1p)",cv/adam_zrigui_verisk_senior_backend_engineer.tex,cover_letters/cover_adam_zrigui_verisk_senior_backend_engineer.tex,https://www.linkedin.com/jobs/view/4448851961,
+2026-09-02
+Metycle
+Recycling B2B marketplace
+Full Stack Engineer
+Full-time
+LinkedIn
+drafted
+
+80
+"Cologne/Bonn; English posting
+ international team; B2B platform (matches LabFlow); requires MIN 5yr full-stack production (candidate ~4-5); React/TS/Node strong; mentoring + AI-tools openness; green/sustainability mission; flexible remote; drafted English CV (2p) + cover (1p)"
+cv/adam_zrigui_metycle_full_stack_engineer.tex
+cover_letters/cover_adam_zrigui_metycle_full_stack_engineer.tex,https://www.linkedin.com/jobs/view/4458786668,
+2026-09-02
+LOX Solutions
+IT services
+Software Engineer - T-Shaped
+Full-time
+LinkedIn
+new
+
+70
+"Cologne; T-shaped generalist
+ full autonomy
+ no silos
+ AI-open (strong behavior match); NO concrete tech stack listed and no German req stated; cover letter required expressing something created; posting vagueness = uncertainty",,,https://www.linkedin.com/jobs/view/4459964116,
+2026-09-02
+EXWE GmbH
+Web/E-commerce agency
+Senior Full-Stack-Entwickler
+Full-time
+LinkedIn
+skip
+
+45
+"Dortmund/Duesseldorf; 60-66k; requires sehr gute Symfony+Vue.js (NOT in core stack - Symfony PHP mismatch
+ Vue moderate); fliessende Deutsch+Englisch (C1-ish German gate); no overtime + 2 remote days attractive but stack/language mismatch"
+
+,https://www.linkedin.com/jobs/view/4459202909,
+2026-09-02
+Firemetrics (via Instaffo)
+Healthtech
+(Senior) Full-Stack Developer Digital Health
+Full-time
+LinkedIn
+skip
+
+10
+Duesseldorf; HARD SKIP: requires Arbeitserlaubnis fuer Deutschland + Deutsch Verhandlungssicher (C2) + FHIR/HL7 healthcare domain specific
+
+
+https://www.linkedin.com/jobs/view/4459646577,
+2026-09-02
+Bookwire (via Instaffo)
+Digital publishing
+Software Engineer - AI-Augmented Development
+Full-time
+LinkedIn
+skip
+
+25
+Dortmund; HARD SKIP: requires Arbeitserlaubnis fuer Deutschland + Deutsch FlieÃƒÆ’Ã…Â¸end (C1); AI-coding-tools role would be interesting but C1 German + visa gate blocks
+
+
+https://www.linkedin.com/jobs/view/4457560646,
+2026-09-02
+Trusted Shops
+Trust/e-commerce
+Fullstack Engineer - Typescript AWS React
+Full-time
+LinkedIn
+drafted
+
+86
+"Cologne; ENGLISH posting (business-fluent English required
+ German a plus) = clean language PASS; stack TS/React/Next.js/Node.js/PostgreSQL + AWS (Lambda/ECS/S3/DynamoDB) + Terraform(IaC) + CI/CD + Claude AI tools; Consumer Membership Team
+ you build it you own it = strong autonomy match; 3+ yr fullstack; gap: AWS cloud-native deep (S3 only so far)
+ Terraform, Python(plus, basics) all honest nice-to-haves; hybrid Cologne remote; permanent contract; TOP NRW pick above 80",cv/adam_zrigui_trusted_shops_fullstack_engineer.tex,cover_letters/cover_adam_zrigui_trusted_shops_fullstack_engineer.tex,https://www.linkedin.com/jobs/view/4454640159,
+2026-09-02
+mittwald (Espelkamp)
+Web hosting / platform
+(Senior) Developer Fullstack oder Backend
+Full-time
+LinkedIn
+rejected
+
+83
+Espelkamp; strong stack match TS/Node.js/Go/React/REST/OpenAPI/gRPC/CQRS/Eventsourcing/Postgres/Redis/Docker/K8s/Helm/CI-CD/Sentry event-based microservices; green-field new teams; no explicit German level stated (PASS/FLAG B2); gap: Go/gRPC/CQRS growth (adjacent/learnable); German posting; senior fullstack/backend posting ID 4460264020 (also Developer Go/Node 4460288189 same role) | Applied 2026-09-02 via LinkedIn (or jobs@mittwald.de); German CV+cover; Rejected 2026-09-07 (Robert Lipkowski, Recruiting - People Experience & Development, Espelkamp): experience and qualifications don't match the requirements profile; no other entry opportunity offered
+cv/adam_zrigui_mittwald_fullstack_backend_developer.tex
+cover_letters/cover_adam_zrigui_mittwald_fullstack_backend_developer.tex
+https://www.linkedin.com/jobs/view/4460264020,
+2026-09-02
+All.in People & Culture (Bundesliga Media)
+Media / sport
+Full Stack / Frontend Engineer Content Hub
+Full-time
+LinkedIn
+shortlist
+
+79
+Cologne; recruiter posting for Bundesliga Media Content Hub (same as 4458178430); stack Next.js/React/TS/AWS-serverless + AI-assisted; strong match BUT Befristet 2 Jahre (fixed-term 2yr) = poor for visa candidate; borderline below 80 due to contract risk
+
+
+https://www.linkedin.com/jobs/view/4457364303,
+2026-09-02
+HDI Group
+Insurance
+Full Stack Entwickler Digitale Services
+Full-time
+LinkedIn
+skip
+
+35
+Cologne; requires Java + Angular (weak match) AND Verhandlungssichere Deutschkenntnisse C2 = hard fail
+
+
+https://www.linkedin.com/jobs/view/4459870842,
+2026-09-02
+thor consulting
+Flowers/agri tech
+Senior Fullstack TypeScript Developer (Plattformmodernisierung)
+Full-time
+LinkedIn
+skip
+
+55
+Straelen; TS/React/Node/AWS strong + real-time auction system BUT explicit fliessendes Deutsch C1/C2 (FLAG vs B2) + 5+ yr; high rejection risk given 4/4 German-language pattern; contact alex.quach@thor-consulting.de
+
+
+https://www.linkedin.com/jobs/view/4457448697,
+2026-09-02
+Athletic Sport Sponsoring
+Sport / auto subscription
+Fullstack Developer Expo React Native Firebase
+Full-time
+LinkedIn
+skip
+
+25
+Bochum; primary stack Expo/React Native (mobile-native weak match) + GCP/Firebase; not a fit
+
+
+https://www.linkedin.com/jobs/view/4457774074,
+2026-09-02
+Gridty
+Energy / AI startup
+Lead Software Engineer (Energie-Startup)
+Full-time
+LinkedIn
+skip
+
+62
+"Cologne; German posting + ""fliessend Deutsch und Englisch"" (gate); stack REQUIRES Python/FastAPI backend (candidate weak/basics) + React/TS + Postgres/timeseries + GCP + LLM/AI agents; backend+Python-heavy = weak match; Lead/Executive seniority; not above 80"
+
+
+https://www.linkedin.com/jobs/view/4453877525,
+2026-09-02
+YPOG
+Legal tech / law firm
+Full-Stack Developer
+Full-time
+LinkedIn
+skip
+
+70
+Cologne; German posting; stack React/Vue + TS + PostgreSQL (strong) BUT Python backend required (weak) + Azure (gap) + Docker/K8s/CI-CD (strong) + AI coding; legal tech; backend Python gap sinks it; not above 80
+
+
+https://www.linkedin.com/jobs/view/4462009797,
+2026-09-02
+Slalom
+Consulting / IT transformation
+Fullstack Engineer
+Full-time
+LinkedIn
+skip
+
+40
+"Duesseldorf; German posting; ""sehr gute Deutschmin C1"" = FLAG/hard skip (4/4 rejection pattern); consulting firm; Java/Python/C#/TS + any hyperscaler; skip"
+
+
+https://www.linkedin.com/jobs/view/4409342960,
+2026-09-02
+adesso SE (Siegen)
+IT services / consulting
+Full Stack Engineer
+Full-time
+LinkedIn
+skip
+
+58
+"Siegen/Paderborn; German posting; ""sehr gute Deutsch"" (boundary FLAG); stack Java and/or JS + Angular/Gulp/Webpack + Spring Boot and/or Node/Express/NestJS; Angular+Java frontend weak match (candidate React); Node/NestJS strong but Java/Angular required; consulting; not above 80"
+
+
+https://www.linkedin.com/jobs/view/3733047034,
+2026-09-02
+Clera (Berlin)
+AI / private-markets infra
+Backend Engineer
+Full-time
+LinkedIn
+drafted
+
+89
+"Berlin ON-SITE; ENGLISH posting; clean language PASS; VISALOSS explicit ""Visa sponsorship is available"" = clean visa PASS (rare+valuable); stack TypeScript/NestJS/PostgreSQL/Prisma ALL STRONG + IaC Terraform/Pulumi (weak gap); 1-6yr range fits candidate ~3-4yr; 70-110k; AI-native dev; small founding team high ownership = behavioral match; gaps: Terraform/Pulumi
+ fund-accounting/private-markets domain; TOP NRW/GERMANY-WIDE PICK ~89-94; redrafted"
+cv/adam_zrigui_clera_backend_engineer.tex
+cover_letters/cover_adam_zrigui_clera_backend_engineer.tex,https://www.linkedin.com/jobs/view/4461281598,
+2026-09-02
+osapiens
+Sustainability / ESG SaaS (enterprise)
+Full-Stack Developer (NodeJS/TypeScript)
+Full-time
+LinkedIn
+applied
+
+89
+"Mannheim (Rhine-Neckar
+ near Frankfurt); ENGLISH posting
+ English working lang C1 req
+ German B1+ bonus = clean language PASS + visa-friendly; stack TS/Node/React/REST + multi-tenant SaaS mirrors LabFlow; hybrid 3d office; gaps: enterprise-scale compliance/ESG domain, larger scale | Applied 2026-09-02 via LinkedIn/careers; English CV+cover (osapiens Personal Summary field used in place of cover section per form)",cv/adam_zrigui_osapiens_full_stack_developer.tex,cover_letters/cover_adam_zrigui_osapiens_full_stack_developer.tex,https://de.linkedin.com/jobs/view/full-stack-developer-nodejs-typescript-m-f-x-at-osapiens-4410493982,
+2026-09-03
+Reonic
+Energy / greentech scale-up
+Software Engineer - Fullstack (AI x Greentech)
+Full-time
+LinkedIn
+drafted
+
+88
+"Augsburg; ENGLISH posting
+ clean language PASS; near-perfect stack TS/React/Node/Postgres/Prisma/Tailwind; hybrid; well-funded scale-up; no seniority gate (3-4yr fine); gaps: none material (fast-paced culture)"
+cv/adam_zrigui_reonic_software_engineer.tex
+cover_letters/cover_adam_zrigui_reonic_software_engineer.tex,https://de.linkedin.com/jobs/view/software-engineer-fullstack-ai-x-greentech-m-f-d-at-reonic-4458245323,
+2026-09-03
+Glorya GmbH
+AI startup
+Technical Lead (Full-Stack)
+Full-time
+LinkedIn
+drafted
+
+87
+"Berlin; ENGLISH posting; clean language PASS; Next.js/TS/Postgres strong + 3+yr fits; AI-native startup
+ high ownership; gap: technical-lead stretch (leadership beyond candidate exp); redrafted"
+cv/adam_zrigui_glorya_technical_lead.tex
+cover_letters/cover_adam_zrigui_glorya_technical_lead.tex,https://de.linkedin.com/jobs/view/technical-lead-full-stack-early-team-ai-start-up-at-glorya-gmbh-4453880386,
+2026-09-03
+SumUp
+Fintech / payments
+Full Stack Engineer (Billings)
+Full-time
+LinkedIn
+drafted
+
+86
+"Berlin; ENGLISH posting; clean language PASS; TS/Node/React/Next/Postgres match; office-first Berlin; gaps: visa silent (needs confirm)
+ large-company scale vs startup exp; redrafted"
+cv/adam_zrigui_sumup_full_stack_engineer_billings.tex
+cover_letters/cover_adam_zrigui_sumup_full_stack_engineer_billings.tex,https://www.linkedin.com/jobs/view/4420145181,
+2026-09-03
+Tanso
+Carbon accounting SaaS
+Software Engineer (f/m/x)
+Full-time
+LinkedIn
+drafted
+
+86
+"Munich; ENGLISH posting; clean language PASS; full-stack TypeScript + PostgreSQL
+ 2+yr fits
+ equity
+ hybrid, German nice-to-have; gap: Azure backend (candidate AWS) minor; redrafted",cv/adam_zrigui_tanso_software_engineer.tex,cover_letters/cover_adam_zrigui_tanso_software_engineer.tex,https://www.linkedin.com/jobs/view/4458246584,
+2026-09-02
+HartleyCo
+AI / B2B SaaS
+Back End Developer
+Full-time
+LinkedIn
+drafted
+
+85
+"Berlin; ENGLISH posting; clean language PASS; TS/Node/Postgres/Prisma/K8s near-perfect + AI infrastructure; gap: visa silent (needs confirm)
+ distributed-systems depth; redrafted; salary Ã¢â€šÂ¬90-120k; recruiter Jack Dansie; product Bounti (hospitality/retail AI); visa sponsor request in cover; no deadline"
+cv/adam_zrigui_hartleyco_back_end_developer.tex
+cover_letters/cover_adam_zrigui_hartleyco_back_end_developer.tex,https://www.linkedin.com/jobs/view/4458072484,
+2026-09-02
+Mirantus Health
+Health-tech
+Senior Full Stack Developer
+Full-time
+LinkedIn
+rejected
+
+83
+"Berlin; ENGLISH posting; health-tech (CoreVita relevant); React/TS/NestJS strong; gap: 5+yr senior requirement vs candidate ~3-4yr; BLOCKER: requires 5+ yrs professional experience
+ candidate ~3-4 - CANNOT APPLY"
+
+,https://www.linkedin.com/jobs/view/4459220674,
+2026-09-02
+Nelly Solutions
+Health fintech
+Senior Software Engineer (Node.js)
+Full-time
+LinkedIn
+rejected
+
+82
+"Berlin; ENGLISH posting; TS/Node/React/Next/AWS strong; gap: 5+yr requirement; BLOCKER: requires 5+ yrs professional experience
+ candidate ~3-4 - CANNOT APPLY"
+
+,https://www.linkedin.com/jobs/view/4380472493,
+2026-09-02
+NXT
+AI Operations
+Forward Deployed Engineer
+Full-time
+linkedin
+skip
+
+-
+Fluent German required (client-facing DACH); Python/Go backend focus; DÃƒÂ¼sseldorf
+
+
+https://www.linkedin.com/jobs/view/4459802782,
+2026-09-02
+All for One (blue zone)
+IT Services
+Senior Software Engineer (human) - Platform
+Full-time
+linkedin
+skip
+
+-
+"German posting
+ fliessende Deutschnisse; Java/Node + SAP/Azure platform stack; Dortmund"
+
+,https://www.linkedin.com/jobs/view/4461301346,
+2026-09-02
+Deutsches Medizinrechenzentrum
+Healthcare SaaS
+Backend Developer - Healthcare SaaS
+Full-time
+linkedin
+skip
+
+-
+"German posting
+ C#/.NET/VB.NET stack + sehr gute Deutschkenntnisse; DÃƒÂ¼sseldorf"
+
+,https://www.linkedin.com/jobs/view/4413406537,
+2026-09-02
+HDI Group
+Insurance
+Fullstack Software Developer
+Full-time
+linkedin
+skip
+
+-
+"English C1 + German B2 ok
+ but Dynamics 365 CRM/Azure SQL/enterprise .NET stack mismatch; Cologne"
+
+,https://www.linkedin.com/jobs/view/4387296635,
+2026-09-02
+Klafka & Hinz
+Energy IT
+Junior/Senior Web-Entwickler:in
+Full-time
+linkedin
+skip
+
+-
+"German posting
+ React/TS frontend but .NET/ASP.NET Core backend required; Aachen"
+
+,https://www.linkedin.com/jobs/view/4462428030,
+2026-09-02
+Speechify
+Software (TTS)
+"Software Engineer
+ Platform (TS/Node)"
+Full-time
+linkedin
+applied
+
+86
+"English posting
+ 100% distributed (no office) - remote; TS/Node required (candidate strongest); backend payments/subscriptions/auth/TTS APIs; Docker/K8s preferred; no German gate; salary USD 30-120k+bonus+stock; Cologne base but fully remote; gaps: GCP (has AWS S3)
+ HA Kubernetes; Applied 2026-09-02 via LinkedIn (3 free-text fields answered: how-you-heard, why-Speechify, hard technical problem)",cv/adam_zrigui_speechify_software_engineer_platform.tex,cover_letters/cover_adam_zrigui_speechify_software_engineer_platform.tex,https://www.linkedin.com/jobs/view/4462139082,
+2026-09-02
+TorAlarm
+Sports/Media (football app)
+Fullstack Developer (TS/JS + Go)
+Full-time
+linkedin
+shortlist
+
+57
+"English posting; TS/JS AND Go required
+ AWS
+ MySQL/Redis/Mongo; 3+ yrs (candidate ~3-4 OK); central DÃƒÂ¼sseldorf office; backend services + infra scaling; real gap = Go (candidate TS-strong
+ no Go); football live score app 20M downloads",,,https://www.linkedin.com/jobs/view/4448155408,
+2026-09-02
+Aufinity (bezahl.de)
+FinTech payments (automotive)
+Senior Software Engineer (Node.js)
+Full-time
+linkedin
+shortlist
+
+63
+"German posting; Node.js + MongoDB core stack (candidate strong) + Docker/K8s/Linux; fintech payments mirrors SmartBudget finance + LabFlow B2B; main gap = 5+ yrs senior req vs ~3-4; Cologne HQ
+ scale-up"
+
+,https://www.linkedin.com/jobs/view/4437421554,
+2026-09-02
+Wolters Kluwer
+Legal/Tax/Healthcare software
+"Senior Full Stack Engineer
+ AI Platform & Agents"
+Full-time
+linkedin
+rejected
+
+85
+"Remote-first US/EU (no German gate; hybrid near Huerth/Cologne); TypeScript/Node/React core stack + Docker/Terraform/GH Actions + AI/LLM (LangChain
+ RAG
+ MCP); global enterprise + startup agility, 100-engineer AI platform, UpToDate Expert AI flagship (health mirrors CoreVita); fit +5 per user; BLOCKER: requires 5+ yrs professional experience, candidate has ~3-4 - does NOT meet minimum qualification, CANNOT APPLY",cv/adam_zrigui_wolters_kluwer_senior_full_stack_engineer.tex,cover_letters/cover_adam_zrigui_wolters_kluwer_senior_full_stack_engineer.tex,https://www.linkedin.com/jobs/view/4375540891,,
+2026-09-03
+deepimmo
+PropTech / Real Estate
+Full-Stack Engineer (m/f/d)
+Full-time
+portal
+drafted
+
+84.1
+"English posting body; hybrid Munich (Karlsplatz/Stachus
+ 'in person or remote'); TS monorepo React+GraphQL+Node+Postgres+Redis+K8s(AWS); small team E2E ownership DB-to-pixels
+ autonomy culture
+ Claude Code benefits; visa sponsorship NOT stated (candidate requires - Step 1 flag); salary EUR 65000 per user; English CV (2p)+cover (1p) drafted; /apply Step 1+2 done, form fields written in documents/applications/deepimmo_full_stack_engineer/application_form_fields.txt",cv/adam_zrigui_deepimmo_full_stack_engineer.tex,cover_letters/cover_adam_zrigui_deepimmo_full_stack_engineer.tex,https://deepimmo.factorialhr.de/job_posting/full-stack-engineer-m-f-d-317391,
+2026-09-03
+Cannamedical Pharma
+Pharmaceutical Cannabis (ERP SaaS)
+Fullstack Developer (m/w/d)
+Full-time
+linkedin
+applied
+
+82
+German posting Ã¢â€ â€™ German documents; Associate level (no 5+ yrs gate); React/Node(NestJS)/TS/PostgreSQL stack; audit-sicher + DSGVO + ApBetrO = core req (LabFlow compliance parallel); Bloombase ERP for cannabis pharmacies (Cannamedical + SnapNext); visa NOT stated; German B2 vs 'sehr gute Deutschkenntnisse' FLAG; 30 days + benefits; Claude Code listed; /apply Step 1+2 done
+cv/adam_zrigui_cannamedical_fullstack_developer.tex
+cover_letters/cover_adam_zrigui_cannamedical_fullstack_developer.tex
+https://www.linkedin.com/jobs/view/4461626465,
+2026-09-04
+OneTutor
+AI EdTech (TUM spin-off)
+Software Engineer TypeScript (NestJS or React)
+Full-time
+LinkedIn
+rejected
+
+87
+English posting; NestJS+React exact stack match; no degree/years required; AI tutoring (RAG/LLMs nice-to-have); Munich in-person; visa UNVERIFIED (small 9-person startup); salary ~60K base + equity; TUM spin-off pre-seed; 93 applicants already; /apply Step 1+2 done; 2026-09-07 rejected (explicit)
+cv/adam_zrigui_onetutor_software_engineer.tex
+cover_letters/cover_adam_zrigui_onetutor_software_engineer.tex
+https://www.linkedin.com/jobs/view/4461109789,
+2026-09-04
+develop
+IT Consulting
+Full Stack Engineer
+Full-time
+LinkedIn
+applied
+
+81
+English posting; Node.js+TypeScript; 75-95K EUR; hybrid Berlin; visa UNVERIFIED; Mid-Senior level (borderline FLAG); IT consulting firm; 190+ employees; /apply Step 1+2 done
+cv/adam_zrigui_develop_full_stack_engineer.tex
+cover_letters/cover_adam_zrigui_develop_full_stack_engineer.tex
+https://www.linkedin.com/jobs/view/4432393428,
+2026-09-04
+Almedia
+AdTech (bootstrapped)
+Backend Engineer
+Full-time
+LinkedIn
+rejected
+
+80
+English posting; NestJS/TS exact stack; 80-140K+equity; Berlin; Europe #3 FT1000; 70M+ users; bootstrapped \ valuation; AI tools explicitly encouraged; Glassdoor 3.0 (work-life 2.4 FLAG); visa UNVERIFIED but 23-country workforce; /apply Step 1+2 done; rejected ~09-09 generic via Ashby (perfect fit both sides); REJECTION-CLASS: market (very high-bar target, EUR 80-140k)
+cv/adam_zrigui_almedia_backend_engineer.tex
+cover_letters/cover_adam_zrigui_almedia_backend_engineer.tex
+https://www.linkedin.com/jobs/view/4431127040,
+2026-09-04
+akeno
+IT Services & Enterprise Software
+Staff/Senior Full Stack Engineer
+"full-stack
+ senior"
+LinkedIn
+rejected
+
+85
+Visa sponsorship + relocation EXPLICITLY stated; senior-level gate; React/TS/Node/GraphQL; event sourcing helpful; Hamburg; REJECTED 2026-09-10 (Workable generic email): high number of applications, not moving forward, generic text, no interview; REJECTION-CLASS: weak-signal (high volume; Staff/Senior high bar)
+cv/adam_zrigui_akeno_full_stack_engineer.pdf
+cover_letters/cover_adam_zrigui_akeno_full_stack_engineer.pdf,linkedin-search,
+2026-09-04
+DaphOS GmbH
+HealthTech AI
+Fullstack Engineer - Frontend Focus
+"full-stack
+  frontend-focus"
+LinkedIn
+rejected
+
+82
+Entry level (no senior gate); HealthTech domain match; React+Python; German/English C1 OK; EUR55-75k; hybrid Munich; rejected ~09-09 generic EN/DE template; REJECTION-CLASS: market (lost on comparative fit; entry-level HealthTech) (Kandidaten die genauer auf Suchprofil passen)
+cv/adam_zrigui_daphos_fullstack_engineer.pdf
+cover_letters/cover_adam_zrigui_daphos_fullstack_engineer.pdf,linkedin-search,
+2026-09-04
+Roos Vehicle Logistics
+Vehicle Logistics
+Fullstack Engineer TypeScript
+"full-stack
+ TypeScript"
+freehire
+applied
+
+80
+"Greenfield TS/React/Node/Postgres platform + AI-tooling workflow (matches Claude Code); unbefristet; start 01.01.2027; language FLAG (sehr gute Deutsch required
+ B2); Ingolstadt"
+cv/adam_zrigui_roos_fullstack_engineer.pdf,cover_letters/cover_adam_zrigui_roos_fullstack_engineer.pdf,freehire-search,
+2026-09-04
+Semdor Pharma Group (Bloombase)
+Cannabis Pharma ERP
+Fullstack Developer
+"full-stack
+ React/Node"
+freehire
+rejected
+
+83
+LabFlow mirror (audit/DSGVO/RBAC/batch); Cannamedical group overlap (drafted app exists); sehr gute Deutsch required (B2 FLAG); Koeln; NestJS | REJECTED 2026-09-14 by Ilka Daub (Personio): generic 'continued with other applications that fit the role requirements more closely in individual points' - no specific profile feedback; REJECTION-CLASS: competition (market); high fit 83, no immigration/degree/stack signal
+cv/adam_zrigui_bloombase_fullstack_developer.pdf
+cover_letters/cover_adam_zrigui_bloombase_fullstack_developer.pdf,freehire-search,
+2026-09-04
+mittwald
+Web Hosting Platform (DevOps)
+Software Developer (Node.js or Go)
+"full-stack
+ backend"
+LinkedIn
+drafted
+
+75
+No senior gate; Node.js/TS/Postgres/Redis/K8s + async queues match; joint start 04.01.2027 with 4mo onboarding; Go to learn; German FLAG (B2 vs likely C1-level German role); Espelkamp
+cv/adam_zrigui_mittwald_developer.pdf
+cover_letters/cover_adam_zrigui_mittwald_developer.pdf,linkedin-search,
+2026-09-05,Monta,E-mobility (EV charging SaaS),Mid Level Engineer - Business Operations,Full-time,LinkedIn,applied,,82,"English posting; AI-first culture (Claude Code/Copilot/Notion AI embedded in workflow); Mid-level IC owning Hub + operator back-office projects design->production; TS/PHP/Kotlin/MySQL bonus (TS+MySQL grounded, Kotlin/PHP honest gaps); salary up to 64k EUR/yr; hybrid Berlin (team Berlin+Copenhagen); 300,000+ monthly users / AI is embedded in how everyone works; visa UNVERIFIED -> Blue Card requested in cover; application in English",cv/adam_zrigui_monta_mid_level_engineer_business_operations.pdf,cover_letters/cover_adam_zrigui_monta_mid_level_engineer_business_operations.pdf,https://www.linkedin.com/jobs/view/4457321586,
+2026-09-05,Shine,Fintech (Cegid),Software Engineer (All Levels) - Engineering Pool,Full-time,LinkedIn,applied,,85,English posting; Engineering Pool single application -> multiple teams (Accounting/Platform/Banking/Invoicing/CPA); exact stack match TS/React/Next.js/Node/NestJS/Express/PostgreSQL + MySQL; fintech domain via SmartBudget; AI a real part of build process (Claude Code daily); mid-level autonomous delivery fits; hybrid Berlin hub; part of Cegid (1M+ SMBs after 2026 acquisition close); visa UNVERIFIED -> Blue Card requested in cover,cv/adam_zrigui_shine_software_engineer_all_levels.pdf,cover_letters/cover_adam_zrigui_shine_software_engineer_all_levels.pdf,https://www.linkedin.com/jobs/view/4445096926,
+2026-09-05,Packmatic,Packaging & Containers (B2B SaaS),Software Engineer (w/m/d) - B2B SaaS,Full-time,LinkedIn,rejected,,88,"English posting; TS/Node/NestJS/React/PostgreSQL exact stack match; 2-3 yrs scaling SaaS gate PASS; compliance-grade data patterns (LabFlow audit log/GDPR/tenant isolation) mapped to PPWR/EPR/EUDR pressure; Berlin hybrid (Prenzlauer Berg); AI tools in hiring funnel; Series A EUR 15M (EQT Ventures/HV, 2024) verified; visa UNVERIFIED -> Blue Card requested in cover; REJECTED 2026-09-10 (Luise Schilling, Head of Talent Acquisition): moved forward with other applicants whose experience aligns more closely; generic, no interview; REJECTION-CLASS: market (lost on comparative fit; B2B SaaS Berlin),cv/adam_zrigui_packmatic_software_engineer_wmd_b2b_saas.pdf,cover_letters/cover_adam_zrigui_packmatic_software_engineer_wmd_b2b_saas.pdf,https://www.linkedin.com/jobs/view/4463699677,
+2026-09-05,Avelios Medical,Healthtech (Hospital IT),Full Stack Engineer (all genders),Full-time,LinkedIn,rejected,,82,English posting; React/TypeScript qualify (one-of Java/C++/React/TS/Swift/Rust); degree OR equivalent hands-on (bootcamp + production = PASS); GitHub contributions a plus (public history present); German OR English fluency PASS (B2 + C1); healthtech domain match via CoreVita DICOM platform; Munich; SAP + Fresenius investors 2026 (verified); visa UNVERIFIED -> sponsorship requested in cover; rejected ~09-09 generic (profiles more closely match requirements); REJECTION-CLASS: market (useful but high-bar role),cv/adam_zrigui_avelios_medical_full_stack_engineer_all_genders.pdf,cover_letters/cover_adam_zrigui_avelios_medical_full_stack_engineer_all_genders.pdf,https://www.linkedin.com/jobs/view/4361502754,
+2026-09-05,Casapilot,Travel / wellness holiday rental (Luxembourg),Web Developer Backend or Frontend,full-stack / frontend-focus,company website (email),drafted,,85,"English CV (2p) + cover (1p) per posting language; Luxembourg agency since 2010, luxury/wellness holiday rentals (Ardennes/Flanders/NL/South of France/Ibiza/Mallorca), 50k+ guests/yr, 5-language team (DE/FR/EN/NL/ES); role = customer website + internal tools/admin backend - exact candidate pattern; tech React/TS/Next.js/Node daily stack + design eye; CASAPILOT JOB POSTING - Apply by email with PHOTO + CV to job@casapilot.com (photo-in-CV unusual for this workspace - flag, cover acknowledges photo attached); visa SILENT in ad -> Luxembourg work permit needed (separate regime from DE Blue Card), sponsorship requested in cover; home office possible = hybrid OK",cv/adam_zrigui_casapilot_web_developer_backend_or_frontend.pdf,cover_letters/cover_adam_zrigui_casapilot_web_developer_backend_or_frontend.pdf,https://www.casapilot.com/en/jobs/web-developer-backend-frontend%20,
+2026-09-06,Kombo,HR Tech (unified API / integration infrastructure),Senior Backend Engineer (Platform Team),full-time / platform backend,portal,drafted,,81,"English posting (Ashby); Berlin ON-SITE; Platform = horizontal team (not SRE) - app code meets infra: Postgres perf, high-risk migrations, Node memory leaks, K8s migration, observability; TS/Node/Postgres core = daily stack; idempotency/BullMQ retries/webhooks = posting keywords; no 5+ yrs gate (Senior title but excellent backend engineer ask); GCP/Terraform/profiling = honest gaps (posting says deep infra expertise not required); K8s manifests + container orchestration + Docker grounded; API-platform domain maps to integration-heavy products; \ total raised (\ Series A Feb 2026 led by Volition Capital + YC) verified via Kombo blog; visa SILENT in posting - raise Blue Card sponsorship in recruiter call (step 1 of their process); relocating to Berlin stated in cover; book-club easter egg FOR LLM applicants intentionally NOT included (untrusted-instruction rule); /apply Step 1-5 complete",cv/adam_zrigui_kombo_senior_backend_engineer_platform_team.pdf,cover_letters/cover_adam_zrigui_kombo_senior_backend_engineer_platform_team.pdf,https://jobs.ashbyhq.com/Kombo/85e4cc9e-0509-41ba-b84c-4df821408146,
+2026-09-06,Vaillant Group,"Heating technology / digital services (NRW, IG Metall)",React Developer (m/f/d),full-time / frontend,online,drafted,,83,"English posting (careers page); Remscheid HYBRID; React/Next/TS/automated testing/CI-CD core = strong match; posting lists BOTH TypeScript+Angular (body bullet) AND React+Next.js (Experience line) - internal inconsistency, ATS lists all 4; no years gate (hands-on experience ask); degree-or-comparable-qualification = bootcamp+portfolio, honest framing; micro frontend + DDD = nice-to-have gaps (DDD not claimed); E2E testing called out (unit+integration grounded, Vitest); English C1 + German B2 (posting wants confident EN+DE - FLAG not block, stated B2 in cover); pair/mob programming = bootcamp-trained, framed as daily-practice openness; IG Metall NRW contract incl vacation pay + Christmas bonus; contact Svetlina Klose +49 2191 18 2582; Digital Solution Platform = verified platform name (VI.P/division claims dropped - unverified); visa silent in posting - employer Blue Card sponsorship unverified, flag on call; apply online (SuccessFactors) only",cv/adam_zrigui_vaillant_group_react_developer.pdf,cover_letters/cover_adam_zrigui_vaillant_group_react_developer.pdf,https://jobs.vaillant-group.com/job/Remscheid-React-Developer-%28mfd%29-42859/1369961833/?locale=en_GB,
+
+2026-09-07,Black Semiconductor,Semiconductor (graphene photonics),Full Stack Developer - AI Integration (f/m/d),full-stack / AI-augmented development,portal,drafted,,82,"English posting (Ashby); Aachen on-site; Black Net internal platform with greenfield, modern, clean codebase = exact candidate pattern (time tracking/absences/reimbursements/ERP integration); 3+ years full-stack gate -> candidate timeline 2021 self-taught + 2022 GoMyCode bootcamp + freelance/timeular project work = PASS; TS/Node.js daily; Vue sits in the posting (strong React or Vue considered alongside Angular); MongoDB stated (doc DB) - candidate grounded on Postgres -> posting lists document OR relational; Claude Code daily genuine use is a REQUIRED line and names Claude Code explicitly - candidate is a daily Claude Code user = core match; set up + champion AI tools for the whole team = knowledge-sharing fit with behavioral profile; small team, self-starter, define the way things get done = exact behavioral match; FabONE pilot production planned 2026 - verified independently (Exyte contract Nov 2025, EU IPCEI EUR 228.7M grant, construction start March 30 2026); visa SILENT in posting -> sponsorship verified as a practice but not this role; apply on Ashby portal only; free-text Ashby application fields likely exist",cv/adam_zrigui_black_semiconductor_full_stack_developer_ai_integration_fmd.pdf,cover_letters/cover_adam_zrigui_black_semiconductor_full_stack_developer_ai_integration_fmd.pdf,https://jobs.ashbyhq.com/blacksemiconductor/39b85326-d59c-4d7c-8ef2-546f0303cea6,
+2026-09-07,Mendato,B2B SaaS (building services),Fullstack Entwickler (m/w/d) - SaaS-LÃƒÂ¶sung,full-stack,LinkedIn,drafted,,79,"German posting; Berlin; Fullstack Developer for B2B SaaS for cleaning companies; Node.js/TypeScript/React daily, GraphQL + SQL (PostgreSQL), ideally AWS, automated tests; Karrierestufe Berufseinstieg = entry-level friendly, no senior gate; TypeScript/React.js/Node.js daily stack match; React/React.js stated explicitly in posting; AI-Tools for day-to-day development (Two Cents, etc.) - Claude Code daily in candidate toolkit; salary 50-60k EUR stated in posting; sehr gute Deutschkenntnisse required - candidate is B2 (B1 certified) = LANGUAGE FLAG + triple-threat flag (DE on-site + German + visa); posting silent on visa -> sponsorship unverified, flag on call; apply via LinkedIn",cv/adam_zrigui_mendato_fullstack_entwickler_mwd_saaslÃƒÂ¶sung.pdf,cover_letters/cover_adam_zrigui_mendato_fullstack_entwickler_mwd_saaslÃƒÂ¶sung.pdf,https://de.linkedin.com/jobs/view/fullstack-entwickler-m-w-d-saas-l%C3%B6sung-at-mendato-4459207334,
+2026-09-07,Q-railing,Railing systems / international product company,Full Stack Developer (M/W/D),full-stack,online,rejected,,80,German posting (q-railing.com careers page); Emmerich am Rhein ON-SITE 38.5h; React/TypeScript/Node.js-NestJS/APIs/Datenbanken = exact daily stack (NestJS = LabFlow framework); no hard senior gate (mehrjaehrige Erfahrung von Vorteil = nice-to-have); bootcamp + 3 prod SaaS = vergleichbare Qualifikation; sehr gute Deutsch- UND Englischkenntnisse = FLAG on German B2 (B1 certified) vs sehr gute, English C1 exactly as asked, stated honestly in cover; HTML/(S)CSS/JavaScript added to skill bullet to hit required keyword; company angle verified independently: online shop, 3D-Konfigurator fuer Gelaender, Partner configurator (q-railing.com + glaswelt.de + partner-configurator.q-railing.com); visa SILENT in posting - EU Blue Card sponsorship unverified, flag on call; apply via q-railing.com careers form (uploads CV + cover, asks entry date + salary); /apply Step 1-5 complete; 2026-09-07 submitted via q-railing.com careers form; 2026-09-07 rejected (HR email): 'andere Bewerbungen unserem Anforderungsprofil noch nÃƒÂ¤her kamen' - resume-screen, generic, no interview,cv/adam_zrigui_q_railing_full_stack_developer.pdf,cover_letters/cover_adam_zrigui_q_railing_full_stack_developer.pdf,https://q-railing.com/de-de/company/career/fullstack_developer/,
+
+2026-09-08,Briink,ESG / sustainability data (AI platform),Product Engineer (Backend/AI),full-time,portal,drafted,,73,"English posting (Merantix Personio); Briink = Merantix portfolio company, Berlin hybrid (Merantix AI Campus), B Corp; mission-verified (CDP/PRI/Bayer/Siemens clients; 30k companies/investors/cities; CSRD/SFDR/EU Taxonomy); backend + AI/LLM role - TS backend accepted if ready to ramp Python quickly; 73/100 Good Fit; honest gaps disclosed in cover: RAG/tool-using agents/LLM evaluation not yet production-scale, Python at basics; application REQUIRES 2-min intro video (Google form, applications without it not considered) - prepared and upload stated in letter; visa SILENT in posting -> EU Blue Card sponsorship requested in cover",cv/adam_zrigui_briink_product_engineer_backend_ai.pdf,cover_letters/cover_adam_zrigui_briink_product_engineer_backend_ai.pdf,https://merantix.jobs.personio.com/job/2777150,
+2026-09-08,AbroadLimited Europe Ltd.,Digital / advertising services (per job boards; posting = mental-health support app),Full Stack Engineer,full-time,,drafted,,73,English posting; Berlin-Mitte hybrid; posting describes mental-health support app (external sources do not independently confirm the product - claims kept to posting text only); React/TypeScript/Node stack exact; 73/100 Good Fit; seniority bar (typically 5+ years) addressed honestly via production responsibility + autonomous ownership framing; gaps disclosed: WebSockets/desktop distribution; visa SILENT in posting but other AbroadLimited listings advertise visa sponsorship + relocation -> sponsorship requested in cover; company research cache written (abroadlimited-europe-ltd.json),cv/adam_zrigui_abroadlimited_europe_ltd_full_stack_engineer.pdf,cover_letters/cover_adam_zrigui_abroadlimited_europe_ltd_full_stack_engineer.pdf,https://de.linkedin.com/jobs/view/full-stack-engineer-with-react-and-typescript-and-backend-experience-at-abroadlimited-europe-ltd-4464485275,
+2026-09-09,New10,Fintech / SME lending,Backend Engineer (TypeScript),backend,portal,applied,Aditi Khar,85,"English posting (whatjobs/freehire); ABN AMRO-backed SME financing scale-up, Amsterdam hybrid (offices near Weesperplein), ~175 people / 30+ nationalities; serverless AWS microservice stack (Lambda/DynamoDB/API Gateway/EventBridge/SQS) with TypeScript, Node.js, React, Docker, Python (major plus), Terraform (major plus); exact TS/Node + React + testing culture match; salary EUR 6,596-8,490 gross (36h) incl. 8% holiday allowance + 11% benefits budget; background check + in-person interview in NL + relocate before start required and addressed in cover note; honest gaps disclosed: AWS work S3/CI-CD-centric so far (serverless + Terraform = next layer), Python at basics; hiring contact email in posting: aditi.khar@new10.com (warm-first); HSM visa sponsorship requested; 2026-09-09 drafted; fit 85/100; applied 2026-09-10 - channel: New10 Workable form apply.workable.com/new10/j/FA7D1EB993 (CV+cover upload; email aditi.khar@new10.com as alt); whatjobs link found DEAD (redirects to homepage)",cv/adam_zrigui_new10_backend_engineer_typescript.pdf,cover_letters/cover_adam_zrigui_new10_backend_engineer_typescript.pdf,https://apply.workable.com/new10/j/FA7D1EB993,
+2026-09-09,GreenShift.app,Cloud optimization / sustainability,Front-End Engineer (React/TypeScript),frontend,portal,applied,,78,"English posting (whatjobs/freehire); Amsterdam startup founded 2024, ~16 employees, EUR 2.35M seed (Rockstart/The Footprint Firm/4impact); application-first cloud optimization (cost/performance/energy), data-driven product UI = exact match; React/TypeScript frontend + data-driven flows + performance/accessibility mindset required; honest gap: Material UI not in toolkit (component systems yes), addressed in cover letter; 'relocation assistance available' stated in posting = strong visa signal; founders public emails leonid@greenshift.app / omar@greenshift.app noted for warm follow-up; HSM visa sponsorship requested; 2026-09-09 drafted; fit 78/100; applied 2026-09-10 - channel: email founders leonid@greenshift.app / omar@greenshift.app (CV+cover attached; no ATS - greenshift.app contact page is sales-only); whatjobs link found DEAD; JobLeads copy lists EUR 60-80k",cv/adam_zrigui_greenshift_front_end_engineer_react_typescript.pdf,cover_letters/cover_adam_zrigui_greenshift_front_end_engineer_react_typescript.pdf,mailto:leonid@greenshift.app,
+"2026-09-09","TapRaise","SaaS / fundraising software (field-marketing ops)","Software Engineer","fullstack","portal","rejected","Magda Canarias","80","English posting (whatjobs/freehire); TapRaise B.V., Breda - fundraising/field-marketing SaaS (Backstage, Insight Plus, QR payments), team of 11 (6 devs, 2 POs, SM/Talent Manager, AE, Founder/Director), 100+ NGOs + fundraising agencies; hybrid at least 2 days on-site, English working language (verified on tapraise.com); min 3 years requirement addressed honestly (portfolio since 2024 + bootcamp); exact match: TS/React/Next.js/Tailwind, PostgreSQL/Prisma, AI tools daily (Claude Code named in posting); gaps disclosed: MySQL/MongoDB/PHP not in toolkit (posting says such as - SQL framed via PostgreSQL); salary EUR 3500-4500 gross/month may sit below HSM under-30 threshold - flagged as risk; Frits target pivoted here after native-Dutch/WO/5yr hard gates; apply channel = email CV + intro to magda@tapraise.com; HSM sponsorship request in cover; applied 2026-09-09 via email to magda@tapraise.com (CV + cover letter attached); fit 80/100; REJECTED 2026-09-10 (Magda Canarias): position already filled; NO visa sponsorship; only hires people already based in Netherlands; REJECTION-CLASS: immigration/location filter (no visa sponsorship)","cv/adam_zrigui_tapraise_software_engineer.pdf","cover_letters/cover_adam_zrigui_tapraise_software_engineer.pdf","https://nl.whatjobs.com/pub_api__cpl__153251286__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
+2026-09-09,Teero,Dental tech (staffing + revenue cycle / RCM),Software Engineer (Product),full-time,portal,applied,,92,"English posting (teero.com/careers/software-engineer, Ashby ATS); Amsterdam IN-PERSON tech hub; product engineer with massive ownership, NO PMs, reports to co-founder Christian Wicks (COO); AI-native core (Claude Code/Cursor) = exact daily-workflow match; stack React/Node.js/React Native/Temporal/PlanetScale/AWS TypeScript everywhere (RN+Temporal nice-to-have gaps, disclosed); care-more-about-what-you-can-build + garage projects welcome = no degree/years gate; ~35-person team, founded 2022, Nate Anderson CEO + Christian Wicks COO (ex-Uber), backed by Construct Capital/1984 Ventures/Firstminute; healthcare-adjacent (CoreVita DICOM) + marketplace/RCM parallel; visa SILENT -> HSM sponsorship requested in cover; English CV (2p) + cover (1p); reviewer GO; 2026-09-09 drafted; fit 92; apply via ashbyhq.com/teero/21f13bd1-77d0-4d82-aa94-536a51b7f411/application",cv/adam_zrigui_teero_software_engineer.pdf,cover_letters/cover_adam_zrigui_teero_software_engineer.pdf,https://www.teero.com/careers/software-engineer,
+2026-09-09,Sevi,Fintech (Dutch-only),Product-Minded Full-Stack Developer (TypeScript/AI),full-stack,freehire,skipped,,20,"Dutch-only posting; partial stack (React Native/Temporal/ElectriSQL not in toolkit); text truncated at source; no direct channel; user skipped",,,https://nl.whatjobs.com/pub_api__cpl__160027790__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me,
+2026-09-09,Monumental,Construction robotics / software,Software Engineer (Product),full-time,portal,applied,,88,"English posting (Ashby ATS, JS-only; text via LinkedIn detail 4464496972); Amsterdam city centre ONSITE 5 days/week (explicitly not hybrid); product engineer building internal tools (robot operator scheduling, site logistics, manufacturing) + Atrium OS + Fenestra; exact core TS/React/Node match, Rust used in places (honest gap, pick-up-quickly clause), Linux/SSH; zero-to-one products on your own or small team, side-project OK = exactly 3 shipped SaaS public on GitHub; coding agents with FULL ownership = Claude Code daily; UI/UX eye; companies Palantir/Qualcomm/Dyson/Shopify/Tesla/Meta/DeepMind backgrounds; $32M Series B led by Khosla Ventures + Plural (Jul 2026), founded 2021, founders Salar al Khafaji (CEO) + Sebastiaan Visser (CTO), Silk ex-Palantir; 130+ team, 100+ homes, 100+ robots registry; visa SILENT -> HSM sponsorship requested in cover; English CV (2p) + cover (1p); reviewer GO, no edits; 2026-09-09 drafted; fit 88; apply via jobs.ashbyhq.com/monumental/22e68743-67a2-4e88-8101-8b2d9b6247ac",cv/adam_zrigui_monumental_software_engineer.pdf,cover_letters/cover_adam_zrigui_monumental_software_engineer.pdf,https://jobs.ashbyhq.com/monumental/22e68743-67a2-4e88-8101-8b2d9b6247ac,
+2026-09-10,Momo Medical,Elderly-care healthtech (BedSense),Backend Developer Integrations Team,backend,portal,withdrawn,,84,"English posting (Recruitee ATS; LinkedIn 4459699635); Momo Medical scale-up Delft, elderly-care BedSense + Momo App, YC S21, Series A EUR 6.5M (PGGM/NextGen 2024), ~120-140 staff, offices NL/US/CA; stack Node.js + TypeScript integration services, event-driven/webhooks, DDD, AWS serverless + queues, Redis/Postgres (LinkedIn signals: Lambda/SQS/SNS); hybrid >= 4 days/wk Delft; medior EUR 4300-5300 / senior EUR 5200-6200 gross + 8% holiday, 32-40h/wk; 3+ years Node.js gate addressed (daily stack since 2022); honest gaps: AWS work S3-centric, DDD tactical patterns = deliberate next step; external systems (Stripe/Firebase/3 LLM providers) framed for partner-integration requirement; Recruitee form screening Qs: elaborate TypeScript = Yes, 4 days/wk in Delft = Yes, live in NL = No (residency-gate eligibility risk, same class as TapRaise; HSM sponsorship requested in cover); fit 84/100 strong fit; WITHDRAWN 2026-09-10 before submission (candidate): medior band EUR 4300-5300 (8% holiday allowance) requires +4 yrs and bottoms near the under-30 HSM threshold, weakest salary of the 3 NL roles; application docs kept on file",cv/adam_zrigui_momo_medical_backend_developer_integrations_team.pdf,cover_letters/cover_adam_zrigui_momo_medical_backend_developer_integrations_team.pdf,https://momomedicalbv.recruitee.com/o/backend-developer-integrations-team-3
+2026-09-10,Clera,"Enterprise AI platform (model-agnostic, deployable cloud/on-prem)",Product Engineer (Full-Stack),full-stack,portal,applied,,88,"English posting (Ashby ATS; refreshed from Sep 1 draft, live job ID 2f095027-2d8f-4b05-8586-8b71d10e635c posted 2026-09-08); Berlin ON-SITE 5d/wk; enterprise-ready model-agnostic AI platform helping orgs roll out AI at scale (chat interactions to complex automations + custom agents), security-first, cloud/on-prem deployment (verified via Ashby dvance posting re product engineer); 2+ yrs TS/Next.js/Node; full-stack end-to-end (concept to production); AI-powered features in enterprise apps; PostgreSQL/Redis/Prisma/tRPC/Tailwind (Redis/Tailwind grounded in portfolio, tRPC extension disclosed); collab w/ product leadership/design/customers (CPO); fast-paced startup pace (3 prod SaaS apps shipped since 2024); CS degree expected = HackerRank cert + GoMyCode MERN bootcamp equivalency (honest, transparent); clear professional communication (DE/EN levels; Red Crescent volunteer communication); visa sponsorship AVAILABLE (stated in posting, EVIDENCE); salary EUR 66-120k; fit 88/100; reviewer caught + fixed wrong company description (was getclera.com, corrected to enterprise AI platform); Honest gaps: CS degree, tRPC, no formal support rotation (addressed via Red Crescent); docs prefixed clera_product_engineer; drafted 2026-09-10 - PENDING MANUAL SUBMISSION via Ashby form (no auto-submit)",cv/adam_zrigui_clera_product_engineer.pdf,cover_letters/cover_clera_product_engineer.pdf,https://jobs.ashbyhq.com/clera/2f095027-2d8f-4b05-8586-8b71d10e635c
+2026-09-10,Insify,B2B insurance platform (Insify Holding B.V.),"Software Engineer, Insurance Platform",full-stack,portal,applied,,86,"English posting (Lever ATS; lever.co/insify/d9294e01-64d3-4e3a-94d1-f46ddd92f675); Amsterdam HYBRID 3d office/2 home; B2B insurance digitizing SME commercial insurance in NL/FR/DE; 3+ yrs complex web apps w/ production ownership; ownership/impact instinct (go beyond stack, data/backend/frontend); AI leverage in daily work (posting explicitly asks where it helped/hurt = Claude Code daily, direct match); DDD & SOA fundamentals (multi-tenant + payment flows + custom business rules); nice-to-have B2B insurance/fintech + multi-country markets + observability instincts (honest gaps disclosed, reviewer-verified); TS across board on AWS (IaaC) single monorepo (posting says incomplete TS/AWS/monorepo experience fine, caring about reasoning); 30+ people product+engineering; EUR 65-85k, 25 holiday days, 6% pension, EUR 50/mo Alleo, up to 4 wks/yr working abroad; funded EUR 40M+ Accel/Munich Re Ventures/Nico Rosberg, Series B EUR 16.3M Sep 2025 led by Evli Growth Partners (verified via websearch); IND sponsor VERIFIED = Insify Holding B.V. (HSM available); honest gaps: formal support rotation, AWS S3-centric/CI-CD, DDD tactical patterns, observability instincts (addressed in cover); fit 86/100; both reviewer + step1 evaluations; docs prefixed insify_software_engineer_insurance_platform; drafted 2026-09-10 - PENDING MANUAL SUBMISSION via Lever form (no auto-submit)",cv/adam_zrigui_insify_software_engineer_insurance_platform.pdf,cover_letters/cover_adam_zrigui_insify_software_engineer_insurance_platform.pdf,https://jobs.lever.co/insify/d9294e01-64d3-4e3a-94d1-f46ddd92f675
+
+2026-09-11
+MOIA GmbH (Volkswagen Group)
+Autonomous mobility / Mobility-as-a-Service
+Fullstack Engineer - In Field Assistance
+Full-time
+online
+closed
+
+86
+"English posting (Jaabz/freehire); Berlin or Hamburg HYBRID; VW Group subsidiary ~1,400 employees (VW Group site, verified) / 350+ (MOIA jobs portal); React+TypeScript+serverless AWS (Lambda, DynamoDB, SQS, CDK); fluent English required, no German needed; EXPLICIT visa sponsorship = relocation support with service provider (visa, administration); Jaabz labels entry-level but posting reads mid-level (must read as mid, honest); 30 vacation days, 6 weeks/yr remote from 40 countries; 60+ nationalities; AI-native (Claude Code in daily workflow) matches; score 86/100; docs prefixed moia_gmbh_fullstack_engineer_in_field_assistance; drafted 2026-09-11 - READY TO APPLY"
+cv/adam_zrigui_moia_gmbh_fullstack_engineer_in_field_assistance.pdf
+cover_letters/cover_adam_zrigui_moia_gmbh_fullstack_engineer_in_field_assistance.pdf
+https://jaabz.com/jobs/174265-fullstack-engineer-all-genders-in-field-assistance,2026-09-09
+
+2026-09-11
+CUBE (Cube Global)
+RegTech / Automated Regulatory Intelligence
+Frontend Engineer - Agentic AI
+Full-time
+online
+ready_to_apply
+
+76
+"English posting (Ashby; isListed=true verified via ashby posting-api 2026-09-11); Berlin HYBRID (isRemote true); CUBE = global RegTech, 700+ employees, 19 countries, UK-HQ, PE-backed by Hg, Berlin AI lab (Kodex AI acquired 2025-10); React+TypeScript+Jotai+Mantine+Playwright+REST; early-career friendly explicitly "We encourage talented graduates and early-career engineers to apply even if they don't meet every requirement"; English-only; no salary disclosed; visa NOT stated (UNKNOWN, raised in cover letter as request for guidance); Claude Code daily match; score 76/100 (B+/A-); docs prefixed cube_frontend_engineer_agentic_ai; drafted 2026-09-11 - READY TO APPLY"
+cv/adam_zrigui_cube_frontend_engineer_agentic_ai.pdf
+cover_letters/cover_adam_zrigui_cube_frontend_engineer_agentic_ai.pdf
+https://jobs.ashbyhq.com/cube/1cc840ea-cad7-4025-a4af-562f4eda3e18,2026-07-29
+
+2026-09-12
+Affirm
+Fintech / Buy now pay later
+Software Engineer II, Fullstack (App Experience)
+full-stack
+portal
+drafted
+
+81
+English posting (LinkedIn 4456267770); New York, remote-first; Affirm BNPL fintech, Marketplace + App Experience domain, app and web user journey; 1.5+ yrs exp, equivalent practical experience or Bachelor's accepted; React or Vue declarative UI web apps + React Native mobile (honest gap: RN adjacent only) + Kotlin or Python APIs at scale (honest gap: Python foundational only, Kotlin absent); base $165-225k NY/CA/WA/NJ/CT, remote-first; H-1B sponsor VERIFIED (644 LCAs all-time, 47 certified 2026 for SWE, median ~$164k, SWE-II LCAs at $131-142k certified); fit ~81/100 (immigration 14/20, lottery + degree-equivalency + FY2028 timing cap the rest; no explicit sponsorship statement in posting, sponsor record strong); reviewer grounded drafts: removed 'mobile and web surfaces' overclaim, added Vue.js (grounded), fixed Python overstatement ('daily export' -> foundational), fixed unsupported 'code reviews by habit', added team-context framing, added No Fine Print company hook; 2-page CV + 1-page cover compiled clean, ATS extract clean (pypdf); docs prefixed affirm_software_engineer_ii_fullstack_app_experience; drafted 2026-09-12 - NH: nominee, US long-odds lottery play
+cv/adam_zrigui_affirm_software_engineer_ii_fullstack_app_experience.pdf
+cover_letters/cover_adam_zrigui_affirm_software_engineer_ii_fullstack_app_experience.pdf
+https://www.linkedin.com/jobs/view/4456267770,
+
+2026-09-12
+The New York Times
+News media / digital subscriptions
+Software Engineer, Growth Conversion
+full-stack
+portal
+drafted
+
+76
+English posting (LinkedIn 4464621041, REQ-020610); New York; NYT Conversion team, subscription funnel to 15M paid subs by 2027; React + TypeScript frontend, Node.js web apps, Go-based APIs, AWS; 2+ yrs full-time exp basic qual (candidate ~2 yr-equivalent independent; honest); basic quals Git (grounded, added), server-side Node/Go (Node yes, Go conceptual-interest honest); preferred A/B experimentation platforms (HONEST GAP, framed as next step - plan-gated rollouts are tier gating not A/B), consumer/subscription products, sales/growth funnels (CoreVita plan gating + Stripe flows grounded); base $110-130k; H-1B sponsor VERIFIED (40 LCAs FY2025, 100% approval, 11 new USCIS approvals); posting explicitly asks candidates not to use GenAI to generate substantive content - AI drafting references removed from CV/cover for this application, honesty line reworded to 'everything cited is my own public work and credentials'; fit ~76/100; reviewer grounded drafts: replaced AWS-hosted claim with Vercel + AWS S3, removed fabricated A/B/experimentation/onboarding/trial claims, removed 'subscription product' overstatement for SmartBudget, added Git/GitHub; 2-page CV + 1-page cover compiled clean, ATS extract clean (pypdf); docs prefixed the_new_york_times_software_engineer_growth_conversion; drafted 2026-09-12
+cv/adam_zrigui_the_new_york_times_software_engineer_growth_conversion.pdf
+cover_letters/cover_adam_zrigui_the_new_york_times_software_engineer_growth_conversion.pdf
+https://www.linkedin.com/jobs/view/4464621041,
+2026-09-13
+GovWell
+GovTech / vertical SaaS (local government permitting & licensing)
+Software Engineer (Product)
+full-stack
+portal
+shortlisted
+
+73
+"US vertical SaaS (LinkedIn 4415704910); Brooklyn/NYC hybrid 3+ days/wk, reports to CTO Ben Cohen; Series A $29M May 2026 (Insight Partners, Work-Bench), ~60 staff, 4X ARR growth, product-market fit scaling; stack React+TypeScript+Node+GraphQL+PostgreSQL+RedwoodJS+AWS+OpenAI; explicit 1-3+ yrs full-stack (not youth-gated), NO bachelor degree requirement stated; comp band $160-225k (strong-NYC); AI-heavy product + Claude Code daily match; immigration: C (NO H-1B filings found - layoffhedge/ellis 404; early-stage US-only hiring, realistically no sponsorship capacity for an overseas hire) - hiring-eligible but immigration-ineligible; fit ~73/100 B+; highest-comp non-degree NYC startup with true stack match, but sponsorship is the crux - verify before applying
+
+
+https://www.linkedin.com/jobs/view/4415704910,
+
+2026-09-13
+Stripe
+Fintech / financial infrastructure
+Backend/API Engineer, Money as a Service
+backend
+portal
+drafted
+
+74
+"US posting (LinkedIn 4454549341); hybrid NYC; Stripe MaaS (Accounts/Connect, MMS, BaaS, Crypto); 2-12+ yrs industry exp, language-agnostic coding ('we understand new languages can be learned on the job'), explicitly welcomes non-traditional backgrounds ('extraordinary twists and turns'); base $142.6-259.6k; H-1B sponsorship A (hundreds of LCAs/yr per public data; reviewer could NOT corroborate earlier 'top-10' claim - softened); no degree hard gate; interview accessibility LOW (Stripe bar + competition), backend-only (candidate is full-stack, TS acceptable); honestly a stretch on interview but the only NYC 'safe-sponsor' non-senior option beyond Affirm/NYT; fit ~74/100 A- on paper, discounted by interview odds; CAVEAT - posting says full-stack applicants must NOT apply via this link; reviewer verdict 'do not submit via this link', find Stripe full-stack NYC posting instead; drafted 2026-09-13 with backend-first honest framing, 2p CV + 1p cover compiled clean, ATS clean (pypdf)
+cv/adam_zrigui_stripe_backend_api_engineer_money_as_a_service.pdf
+cover_letters/cover_adam_zrigui_stripe_backend_api_engineer_money_as_a_service.pdf
+https://www.linkedin.com/jobs/view/4454549341,
+
+2026-09-13
+Packmatic (Packa)
+Packaging software / B2B SaaS (PPWR/EPR/EUDR compliance)
+Software Engineer (w/m/d) - B2B SaaS
+full-stack
+portal
+drafted
+
+75
+"German posting (LinkedIn 4463699677); Berlin-Prenzlauer Berg hybrid; end-to-end SaaS for packaging compliance; 2-3 yrs exp explicitly (Adam ~2 yr-equivalent independent)'; TS+Node.js+NestJS backend, React frontend, APIs/data-modeling/CI-CD; English fluent required, German a plus; funded & growing (PPWR/EPR/EUDR regulatory tailwind); no degree gate stated; visa NOT stated - German employer, startup, likely sponsor-able via degree-free IT route (Â§18 IT specialist w/ 3 yrs exp window) + Blue Card alternatives; comp not disclosed (Berlin B2B SaaS mid ~70-90k); fit ~75/100 B+; best-fit new DE lead: exact stack, exact seniority band, English; drafted 2026-09-13 - reviewer pass scoped 127-tests claim to CoreVita, dropped unsupported 'idempotency'/'manifests'/'usage limits', 2p CV + 1p cover compiled clean, ATS clean (pypdf)
+cv/adam_zrigui_packmatic_software_engineer_b2b_saas.pdf
+cover_letters/cover_adam_zrigui_packmatic_software_engineer_b2b_saas.pdf
+https://www.linkedin.com/jobs/view/4463699677,
+
+2026-09-13
+IQM Quantum Computers
+Quantum computing / deep tech
+Full Stack Software Engineer (Vertical Deployment)
+full-stack
+portal
+drafted
+
+72
+"EU posting (freehire.me, 2026-09-10); Munich/Berlin/Espoo HQ options; mid-level full-stack, frontend-inclined; TS+Node+Postgres+Redis+Vue+workflow orchestration, Docker/CI-CD; ownership from ticket to deployment, works with researchers; English (international team, IQM hires globally); no degree gate stated; visa: not stated - deep-tech scaleup with global hiring, feasible via degree-free IT route/employer sponsorship but contract/BC specifics unverified; comp not disclosed (Munich deep-tech mid, est. 70-90k); fit ~72/100 B; strong company quality + real product, but quantum SaaS frontend is niche vs Adam's B2B SaaS profile; drafted 2026-09-13 - reviewer pass scoped test-count/company claims, dropped 'durable execution' and phrase echo, honest 4+yrs gap paragraph kept, 2p CV + 1p cover compiled clean, ATS clean (pypdf)
+cv/adam_zrigui_iqm_full_stack_software_engineer.pdf
+cover_letters/cover_adam_zrigui_iqm_full_stack_software_engineer.pdf
+https://www.freehire.me/jobs/full-stack-software-engineer-iqm-quantum-computers-tyhhqavo,
+2026-09-13
+Stripe
+Fintech / financial infrastructure
+Full Stack Engineer, Link
+full-stack
+online
+drafted
+
+74
+"US campus posting (stripe.com/careers 8062305); hybrid NYC + Toronto/Seattle/SF; Link = Stripe digital wallet (secure checkout any device/browser; front-end to low-latency transaction infra to fraud protection); min 2-10+ yrs INDUSTRY exp (no internships/co-ops) - candidate honest junior-end (no employer-based industry years, 2+ yrs independent production SaaS all built end-to-end); preferred large-scale financial tracking (SmartBudget multi-currency = type-match, not scale) and cloud gRPC/GraphQL/Docker/K8s/AWS (Docker/K8s/AWS grounded; gRPC/GraphQL honest gap omitted); base $156.8-285.6k (strong NYC band); H-1B claim verified soft (Stripe LLC 267 LCAs 2025 / 317 2024 per DOL, "hundreds per year" is truthful); no degree gate; candidate is full-stack so this resolves the MaaS-posting caveat as the full-stack NYC Stripe opening the MaaS reviewer asked for; hybrid 50% in-office = on-band; fit ~74/100; reviewer pass: removed idempotency/durable-execution fabrications, scoped 127-tests+Sentry to CoreVita and Docker/K8s to LabFlow, added Red Crescent Volunteering for the collaboration requirement, kept honest junior-end industry-years paragraph, verified sponsorship paragraph; drafted 2026-09-13 - 2p CV + 1p cover compiled clean, ATS clean (pypdf)
+cv/adam_zrigui_stripe_full_stack_engineer_link.pdf
+cover_letters/cover_adam_zrigui_stripe_full_stack_engineer_link.pdf
+https://stripe.com/careers/listing/full-stack-engineer-link/8062305,
+2026-09-14
+KI group (KI*PIE)
+AI / LLM consultancy
+Fullstack-Entwickler:in React / TypeScript (m/w/d)
+Full-time
+personio
+rejected
+Chinaedu Onwukwe (KI group recruiting)
+
+"Bad Homburg (near Frankfurt); German posting; React/TS fullstack - strong stack match; applied via ki-group.jobs.personio.de; NOT previously tracked (untracked application); REJECTED 2026-09-14 (Personio, Chinaedu Onwukwe): generic "many applications, not considered in shortlist" - no specific profile feedback; REJECTION-CLASS: competition (market), no immigration/degree/stack signal"
+
+
+https://ki-group.jobs.personio.de/?language=en,
+2026-09-14
+Almedia
+AdTech (bootstrapped)
+Junior Frontend Engineer
+Full-time
+ashby
+rejected
+Almedia Talent Team
+
+"Separate application from tracked Backend Engineer row (that one = existing rejected row); REJECTED 2026-09-14 (Ashby, Almedia Talent Team): generic "perfect fit for both sides at this particular moment" - no specific profile feedback; REJECTION-CLASS: competition (market), no immigration/degree/stack signal; company signals remain: bootstrapped, AI tools encouraged, Glassdoor 3.0 work-life FLAG"
+
+
+,
+2026-09-15
+Plaid
+Fintech / financial infrastructure
+Software Engineer, Backend
+backend
+portal
+applied
+
+89
+"US posting (LinkedIn 4410261275 IDENTICAL to employer Ashby 7e10c0b5); hybrid NYC; back-end/fullstack systems and APIs behind finance products; min 1-4 yrs post-internship - candidate honest junior-end (no employer-based industry years, ~3 yrs independent production SaaS built end-to-end); high ownership + well-tested + financial-data focus = on-profile; comp $176.4-226.8k (very strong NYC band); H-1B class B verified (Plaid Inc 149 LCAs FY21-26 100% certified, NY SWE $189,592 Jun 2026); lottery ~March 2027 window + degree-equivalency reality flagged in cover; fit ~89/100; reviewer pass applied: JWT-based hyphen fix, customer-portal grounded swap, webhooks/retries/exactly-once framing, visa paragraph tightened (lottery risk kept honest); drafted 2026-09-14 - 2p CV + 1p cover compiled clean, ATS clean (pypdf); SUBMITTED 2026-09-15 via Ashby form (manual submission)
+cv/adam_zrigui_plaid_software_engineer_backend.pdf
+cover_letters/cover_adam_zrigui_plaid_software_engineer_backend.pdf
+https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9,
+
+2026-09-15
+LangChain
+AI / LLM tooling
+Frontend Engineer, AI Observability & Evals Platform
+frontend
+portal
+applied
+
+90
+"US posting (LinkedIn 4453051366 IDENTICAL to employer Ashby f7de4819); SF/NYC/Boston, on-site 5d/wk within commuting distance (>1hr eligible hybrid); LangSmith observability/eval platform frontend; React+TS, reusable components, perf across devices/browsers, REST, JWT, CS fundamentals ideal-with-degree; min 2+ yrs frontend - candidate honest 2+ yr independent production builds, bootcamp path + no degree flagged in cover; comp $160-195k (strong NYC band); H-1B class B verified (LangChain Inc 20 LCAs FY25-26 100% certified, median $168.5k); lottery ~March 2027 window, honesty flagged; fit ~90/100; reviewer pass applied: daily-claims scoped, npm workflows added, ungrounded design-tokens removed, agent-traces softened, visa paragraph tightened; drafted 2026-09-14 - 2p CV + 1p cover compiled clean, ATS clean (pypdf); SUBMITTED 2026-09-15 via Ashby form (manual submission)
+cv/adam_zrigui_langchain_frontend_engineer_ai_observability_evals_platform.pdf
+cover_letters/cover_adam_zrigui_langchain_frontend_engineer_ai_observability_evals_platform.pdf
+https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c,
+
+2026-09-16
+Rain
+Stablecoin payments / financial infrastructure
+Backend Engineer
+backend
+portal
+applied
+
+74
+"English posting (LinkedIn 4463918120); Backend Engineer, New York NY; stablecoin payments platform for enterprises/neobanks/platforms/devs/AI agents; Visa+Mastercard Principal Member, cards at 175M merchant locations in 220+ countries; $250M Series C led by ICONIQ Jan 2026 at $1.95B valuation (Sapphire, Dragonfly, Bessemer, Galaxy, FirstMark, Lightspeed, Norwest, Endeavor Catalyst); open/flat structure ethos, grow-into-the-role; NodeJS + other backend technologies required, builder mentality + side projects explicit, 2-10+ yrs band; fintech nice-to-have (SmartBudget multi-currency + exactly-once = honest adjacency), smart contracts/blockchains nice-to-have (HONEST GAP flagged in cover), neobank/card-issuing brownie points (HONEST GAP, primitives reframe: idempotent writes, webhook reconciliation, immutable audit logs); comp $170-240k (very strong NYC band); H-1B: earlier 'class B (Rain King Software)' claim could NOT be verified - reviewer found 'Rain King Software' resolves to an unrelated sales-intelligence firm, official operating entity is Signify Holdings, Inc.; unverified LCA claim DROPPED from cover, sponsorship raised up front for confirmation; fit ~74/100; reviewer pass applied: dropped unverified H-1B LCA claim, added 'Third-party integrations and AI' competency + AI-assisted-delivery bullet (Rain's agentic strategy), webhooks keyword, tightened honesty paragraph to fit 1p; drafted 2026-09-15 - 2p CV + 1p cover compiled clean, ATS clean (pypdf); SUBMITTED 2026-09-16 via LinkedIn Apply (manual submission)
+cv/adam_zrigui_rain_backend_engineer.pdf
+cover_letters/cover_adam_zrigui_rain_backend_engineer.pdf
+https://www.linkedin.com/jobs/view/4463918120,
+
+
+2026-09-16
+Workwize
+IT asset management / SaaS (hardware logistics)
+Product Engineer
+product / early-career
+portal
+applied
+
+80
+"English posting (LinkedIn 4457335500); hybrid Amsterdam, early-career product engineer; AI/agents as default way of working explicit (Claude Code daily = exact match); "don't need a long CV"; ship-fast + product calls + evaluation/monitoring on shipped work; nice-to-haves: evals/inference-cost/model failure modes - SmartBudget tiered LLM fallback chain hits model failure modes; 1-2+ yrs + side projects + team experience; honest gap: solo builder (bootcamp team collab + Red Crescent volunteer ops framed in cover); IND sponsor YES, HSM under-30 threshold EUR 4,357/mo; salary n/p (scale-up, LinkedIn Top 10 Startup 2025 + Deloitte #6, $13M Series A Jan 2025 Klass Capital fast-track AI-driven automation - verified); fit ~80/100; reviewer pass applied: trust/verify-the-unreliable-teammate line, company-angle para, scoped 127 tests to CoreVita, grounded language-growth + team habits; drafted 2026-09-16 - 2p CV + 1p cover compiled clean, ATS clean (pypdf) SUBMITTED 2026-09-18 via LinkedIn (manual submission)"
+cv/adam_zrigui_workwize_product_engineer.pdf
+cover_letters/cover_adam_zrigui_workwize_product_engineer.pdf
+https://www.linkedin.com/jobs/view/4457335500,
+
+2026-09-16
+Ramp
+Fintech / spend management (financial infrastructure)
+Software Engineer, Frontend
+frontend
+portal
+applied
+
+74
+"English posting (LinkedIn 4387483962); Software Engineer Frontend, NYC; TS/React/Vite/Ryu design system; min 2 yrs frontend preferred (candidate ~3 yrs independent production, honest in cover); "care less where you trained" = maximal leverage for bootcamp; deep JS + passion for web performance (presigned-URL delivery-path evidence); data-dense finance surfaces at 70,000+ companies / $200B annualized spend (posting claims; big-brand fintech); gap: employer-based years, Vite/Ryu new (slope-over-intercept framing); comp ~$143-168k (LCA, market report); H-1B: earlier class-B-verified note CONFLICTED during review - h1bvisajobs.com shows no Ramp LCA on file, sponsorship NOT asserted in cover (Rain lesson), raised up front for confirmation; fit ~74/100; reviewer pass applied: grounded finance-views/profile bullet, product-interfaces+UX keyword, delivery-path performance bullet, slope-over-intercept line, confident-ramp honesty; drafted 2026-09-16 - 2p CV + 1p cover compiled clean, ATS clean (pypdf) SUBMITTED 2026-09-18 via LinkedIn (manual submission)"
+cv/adam_zrigui_ramp_software_engineer_frontend.pdf
+cover_letters/cover_adam_zrigui_ramp_software_engineer_frontend.pdf
+https://www.linkedin.com/jobs/view/4387483962,
+
+2026-09-16
+revel8
+Cybersecurity (AI-native security awareness / human risk)
+(Junior) Software Engineer
+full-stack / junior
+portal
+applied
+
+67
+"English posting (LinkedIn 4426307069); (Junior) SWE Munich, office-first Stiglmaierplatz; equivalent practical experience 1-2 yrs = on band; React or Angular frontend strong; SQL/relational (PostgreSQL/Prisma) strong; IDEALLY-JAVA gap honest (TS/JS OOP only, Spring Boot eagerness per posting invitation, Python foundation); cloud product + code review/mentorship culture + ESOP = fit; cybersecurity domain new - compliance angle grounded (LabFlow immutable audit logs/GDPR-aware deletion vs ISO 27001/NIS-2 alignment - verified revel8 GmbH, STACKIT hosting); ~40 revels, EUR 5.1M seed Sep 2025, founded Aug 2024 (posting claims); comp ~EUR 55-65k estimate; DE sponsorship: degree-free IT-specialist route requested, EU Blue Card degree-gated - framed honestly; fit ~67/100; reviewer pass applied: on-band keyword line, compliance-aware bullet, tested-code phrase, Java-gap action framing, NIS-2/ISO angle, degree-free sponsorship para; drafted 2026-09-16 - 2p CV + 1p cover compiled clean, ATS clean (pypdf) SUBMITTED 2026-09-18 via LinkedIn (manual submission)"
+cv/adam_zrigui_revel8_software_engineer.pdf
+cover_letters/cover_adam_zrigui_revel8_software_engineer.pdf
+https://www.linkedin.com/jobs/view/4426307069,
+
+
+2026-09-18
+Hire Fellows
+IT Services and IT Consulting (recruitment/staffing agency, Bahrain)
+Full Stack Developer - Lovable & Supabase
+full-stack
+portal
+drafted
+
+79
+"English posting (LinkedIn 4462848663 + Workable apply.workable.com/j/09D3268344); Stream B Tunisia-remote (remote from Gabes pivot 2026-09-18); Hire Fellows = Bahrain-based staffing agency (founded ~Jul 2025, ~7 employees) recruiting for undisclosed CLIENT = early-stage founder-led company building a multi-sided digital platform (customer app, driver app, retailer dashboard, admin dashboard) on Lovable + Supabase; role = take technical ownership of a substantially-built app: fix/improve/optimize/rebuild, backend focus (auth, user profiles, databases, real-time syncing, workflows), GitHub codebase mgmt, work directly with founder (non-technical); requirements: 3+ yrs full-stack strong backend (honest ~3 yrs independent production, zero employer industry years), Lovable or STRONG FAMILIARITY with AI-assisted app platforms (Claude Code daily = strong-familiarity path), Supabase or similar (sits on PostgreSQL = SQL grounded, gaps configuration-level), existing-codebase troubleshooting = exact match (CoreVita/LabFlow/SmartBudget all maintained live), real-time data/syncing/notifications (SmartBudget multi-currency + LLM fallback chain adjacency), multi-role UI platforms = grounded (admin dashboard + client portal); honest gaps DISCLOSED in cover: no Lovable/Supabase/realtime-messaging/order-management experience (reviewer grounded - order flows NOT claimed, no order-mgmt product); fit 79/100 Strong Fit (best of Tunisia shortlist; Smeetz 63 stretch, BlackStone 52 skip, Fabulous 41 skip - user chose Hire Fellows only); no degree gate (bootcamp path fine - posting asks practical problem-solving); comp n/p (recruiter-client role); reviewer pass applied: grounded fixes (removed order flows, removed ungrounded iteration claims, Prisma-based idempotency grounded, docs-writer claim reframed to handover-ready, non-technical-audience cover reframe, fits-with grammar); no visa paragraph (domestic Tunisia); 2p CV + 1p cover compiled clean (lualatex/xelatex), ATS clean (pypdf); docs prefixed hire_fellows_full_stack_developer; drafted 2026-09-18 - READY TO APPLY via Workable form or LinkedIn"
+cv/adam_zrigui_hire_fellows_full_stack_developer.pdf
+cover_letters/cover_adam_zrigui_hire_fellows_full_stack_developer.pdf
+https://www.linkedin.com/jobs/view/4462848663,
+
+2026-10-11,Resend,Developer Tools,"Software Engineer, Developer Tools",full-time,portal,drafted,,85,"Resend DevTools (SDKs, React Email, CLI, MCP, integrations). Europe remote (UTC+1). Comp $130k-160k. Fit: TS/Node, auth/authz/retries/idempotency/partial failures, agents-as-users, queues+monitoring/recovery; gaps: rate limits, OSS/SDK/CLI/MCP external contribution.",cv/adam_zrigui_resend_software_engineer_developer_tools.pdf,cover_letters/cover_adam_zrigui_resend_software_engineer_developer_tools.pdf,https://jobs.ashbyhq.com/resend/2e3d92c5-79d9-4511-8faf-e2326e7a081e/application,
