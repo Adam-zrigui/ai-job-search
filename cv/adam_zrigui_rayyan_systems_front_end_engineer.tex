@@ -1,0 +1,145 @@
+%% CV - Adam Zrigui - Rayyan Systems, Front End Engineer
+%% Compile with: lualatex adam_zrigui_rayyan_systems_front_end_engineer.tex
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+\renewcommand*{\namefont}{\fontsize{34}{36}\bfseries\upshape}
+\colorlet{firstnamecolor}{color1}
+\colorlet{lastnamecolor}{color1}
+\colorlet{namecolor}{color1}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
+
+\usepackage[utf8]{inputenc}
+\AtEndPreamble{\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdftitle={Adam Zrigui - CV},
+    pdfpagemode=UseNone,
+}}
+\usepackage[scale=0.80]{geometry}
+\usepackage{import}
+\usepackage{needspace}
+
+% personal data
+\name{Adam}{Zrigui}
+\address{Gabes, Tunisia}{}{}
+\phone[mobile]{(+216) 23018023}
+\email{zriguiadam@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/adam-zrigui-2b6a65240/}{LinkedIn}, \href{https://github.com/Adam-zrigui}{GitHub}}
+
+\begin{document}
+
+\makecvtitle
+
+\vspace{6pt}
+\small{Front-end engineer who builds data-rich SaaS interfaces with React and TypeScript. Shipped three production applications: a medical imaging platform with a browser-based DICOM viewer, a multi-tenant workflow dashboard with audit trails, and a finance dashboard with an AI advisor. Work spans complex data interactions, role-based views, performance work on large files, automated testing and CI/CD. Uses Claude Code daily. Based in Tunisia and available for fully remote work worldwide.}
+
+\section{Core Competencies}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{React / TypeScript Product UI}: React 19, Next.js 16, reusable component patterns, typed props and server-rendered dashboards.
+\item \textbf{Data-Driven Interfaces}: dashboards, tables, filters, workflow states, medical imaging viewer and multi-currency finance data.
+\item \textbf{AI-First Product Features}: AI advisor chat with graceful fallback states, plus Claude Code daily for building, review and shipping.
+\item \textbf{Performance and Responsiveness}: rendering-heavy medical imaging surfaces, large-file handling and production monitoring with Sentry.
+\item \textbf{Testing and Quality}: 127 automated tests across 17 files with Vitest, component and integration coverage, GitHub Actions CI/CD.
+\item \textbf{Backend Collaboration}: Node.js, REST APIs and PostgreSQL/Prisma fluency, so API contracts are agreed directly with backend engineers.
+\item \textbf{State and Workflow}: React hooks and server-data flows across protected routes, multi-step forms and tenant-scoped approval workflows.
+\end{itemize}
+
+\section{Professional Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\needspace{5\baselineskip}
+\item{\cventry{Sep 2025 - Jan 2026}{Freelance Full-Stack Developer - fitPro}{Middle East client}{Remote}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Shipped an online fitness course platform with fitness and nutrition tracking, owning the engagement end to end and maintaining it after launch through January 2026.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2021 - 2022}{Freelance Full-Stack Developer - Fiverr}{Remote}{}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Delivered a custom Next.js 12 e-commerce website for a paying book-retailer client, using Sanity as headless CMS and Stripe for payments, from requirements through handoff.}
+\end{itemize}}}
+
+\end{itemize}
+
+\section{Project Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\needspace{5\baselineskip}
+\item{\cventry{2026}{Medical Imaging Platform}{CoreVita}{Remote}{}{\vspace{1pt}
+\textbf{Live:} \href{https://corevita.vercel.app}{corevita.vercel.app}\\ \textbf{Code:} \href{https://github.com/Adam-zrigui/corevita}{Adam-zrigui/corevita}
+\begin{itemize}
+    \item {Frontend-heavy healthcare SaaS with an interactive browser-based DICOM viewer, tokenized sharing links and role-based dashboards for four roles.}
+    \item {Performance work for large radiology files, 127 automated tests across 17 files, and billing flows built on Stripe subscriptions and webhook handling.}
+    \item {Built in TypeScript, React 19 and Next.js, deployed on Vercel with GitHub Actions CI/CD and Sentry monitoring.}
+\end{itemize}}}
+
+\needspace{5\baselineskip}
+\vspace{3pt}
+
+\item{\cventry{2026}{Multi-Tenant Workflow Platform}{LabFlow}{Remote}{}{\vspace{1pt}
+\textbf{Live:} \href{https://labflow-beige.vercel.app}{labflow-beige.vercel.app}\\ \textbf{Code:} \href{https://github.com/Adam-zrigui/Labflow}{Adam-zrigui/Labflow}
+\begin{itemize}
+    \item {Dashboard-led lab sample workflows with role-based approval gates, usage-limited tiered billing and audit trail views.}
+    \item {Reusable React component library across tenant-scoped views, with strict tenant isolation enforced in the backend.}
+    \item {TypeScript, React and Next.js with Vitest integration tests in CI.}
+\end{itemize}}}
+
+\needspace{5\baselineskip}
+\vspace{3pt}
+
+\item{\cventry{2024}{Personal Finance SaaS with AI Advisor}{SmartBudget}{Remote}{}{\vspace{1pt}
+\textbf{Live:} \href{https://smart-budget-rho.vercel.app}{smart-budget-rho.vercel.app}\\ \textbf{Code:} \href{https://github.com/Adam-zrigui/SmartBudget}{Adam-zrigui/SmartBudget}
+\begin{itemize}
+    \item {Multi-currency finance dashboard with budgets, savings goals and investment tracking views.}
+    \item {AI advisor chat interface with graceful fallback states across Groq, Cohere and HuggingFace.}
+    \item {Built end to end with Next.js, TypeScript, PostgreSQL/Prisma, Firebase Auth and Vercel.}
+\end{itemize}}}
+
+\end{itemize}
+
+\section{Education}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{Jun 2022 - Feb 2023}{Full-Stack Software Engineering Bootcamp, MERN Stack}{GoMyCode}{Tunisia}{}{\vspace{1pt}
+Intensive bootcamp covering JavaScript, REST API design, React, Node.js, teamwork and agile delivery. Self-directed follow-up: TypeScript, Next.js, PostgreSQL/Prisma, Docker and CI/CD.
+}}
+\end{itemize}
+
+\section{Expertise}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{Software and Tools}: Docker, Git, GitHub Actions, Vercel, Linux, Tailwind CSS, HTML5, CSS3, SASS.
+\item \textbf{Libraries and Services}: Stripe, Firebase Auth, NextAuth, Sentry, Resend, Cornerstone3D, BullMQ, Redis.
+\end{itemize}
+
+\section{Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item {HackerRank Software Engineer, REST API Intermediate, SQL Basic and Software Development Intern - Jan 2025.}
+\item {HackerRank Frontend Development React, Node.js, Problem Solving, Python and React.js - Sep 2024.}
+\item {EF SET English Certificate C1 Advanced - Oct 2024.}
+\end{itemize}
+
+\section{Languages}
+\vspace{1pt}
+\begin{itemize}
+\item {Arabic (Native / C2), English (C1), German (B2 working proficiency), French (B1), Malay (professional working proficiency), Turkish (basic), Italian (A2).}
+\end{itemize}
+
+\section{References}
+\vspace{1pt}
+\begin{itemize}
+\item{Available upon request.}
+\end{itemize}
+
+\end{document}

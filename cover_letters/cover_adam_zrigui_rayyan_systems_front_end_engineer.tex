@@ -1,0 +1,50 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cover Letter - Rayyan Systems, Front End Engineer
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{cover}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\rfoot{Page \thepage \hspace{0pt}}
+\thispagestyle{empty}
+\renewcommand{\headrulewidth}{0pt}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TITLE NAME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{}{\Huge{Adam Zrigui}}{  \href{mailto:zriguiadam@gmail.com}{zriguiadam@gmail.com} | (+216) 23018023 |  \urlstyle{same}\href{https://www.linkedin.com/in/adam-zrigui-2b6a65240/}{LinkedIn} | \urlstyle{same}\href{https://github.com/Adam-zrigui}{GitHub}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     MAIN COVER LETTER CONTENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\currentdate{\today}
+\lettercontent{Dear Rayyan hiring team,}
+
+\lettercontent{I am applying for the Front End Engineer role. Rayyan's mission to make rigorous evidence synthesis faster and more accessible is the kind of product problem I want to work on: complex data, high trust, and an interface that has to make expert work feel clear.}
+
+\lettercontent{Three shipped applications map closely to the work:}
+
+{\raggedright\fontspec[Path = OpenFonts/fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont
+\begin{itemize}
+    \item {CoreVita, a medical imaging platform with a browser-based DICOM viewer, role-based dashboards for four roles, tokenized sharing and 127 automated tests. Keeping the viewer responsive with large radiology files taught me to treat performance as a product requirement.}
+    \item {LabFlow, a multi-tenant workflow platform with approval gates, audit trail views and a reusable React component library across tenant-scoped screens. The append-only audit log and strict tenant isolation are the parts I would bring to Rayyan's traceability requirements.}
+    \item {SmartBudget, a multi-currency finance dashboard with an AI advisor chat that degrades gracefully across three model providers.}
+\end{itemize}\par}
+\vspace{6pt}
+
+\lettercontent{Your requirements line up with my daily work: React fundamentals, TypeScript, REST APIs, responsive UI, testing and Git. I test with Vitest and ship through GitHub Actions, and I use Claude Code daily for implementation and review. Two honest gaps: I have not used Redux in production; my state work has been React hooks and server-data flows. I also have not worked in systematic review software. The underlying patterns are familiar, and CoreVita and LabFlow gave me healthcare-adjacent, audit-heavy product experience that maps closely to Rayyan's rigor and reproducibility values.}
+
+\lettercontent{I am based in Gabes, Tunisia, and available for fully remote work. I would welcome the chance to walk through the DICOM viewer or the AI advisor and how I would approach Rayyan's data-heavy screens.}
+
+\begin{flushright}
+\closing{Kind regards,}
+
+\signature{Adam Zrigui}
+\end{flushright}
+\end{document}

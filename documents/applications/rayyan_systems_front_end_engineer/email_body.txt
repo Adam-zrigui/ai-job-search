@@ -1,0 +1,14 @@
+Subject: Front End Engineer application - Adam Zrigui
+
+Dear Rayyan hiring team,
+
+I am applying for the Front End Engineer role. I have 3.5+ years building production SaaS with React and TypeScript, including a medical imaging platform with a browser-based DICOM viewer, a multi-tenant workflow platform with audit trails, and a finance dashboard with an AI advisor. I use Claude Code daily for implementation and review.
+
+The role's focus on data-rich, AI-first interfaces is the work I do: complex data interactions, role-based views, performance on large files, automated tests and CI/CD. My GitHub is https://github.com/Adam-zrigui and three live projects are at https://corevita.vercel.app, https://labflow-beige.vercel.app and https://smart-budget-rho.vercel.app.
+
+I am based in Gabes, Tunisia, and available for fully remote work. Could you also share the salary range for this role? I would welcome the chance to discuss how I can contribute.
+
+Kind regards,
+Adam Zrigui
+zriguiadam@gmail.com
+(+216) 23018023
