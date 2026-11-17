@@ -1,0 +1,14 @@
+Subject: Junior Software Engineer application - Adam Zrigui
+
+Dear MixRank hiring team,
+
+I am applying for the Junior Software Engineer role on Y Combinator's job board. I am based in Gabes, Tunisia (UTC+1), and can work fully remote. The posted $12,000-$24,000 salary range fits what I am looking for in a junior role.
+
+My production stack is TypeScript, Node.js, PostgreSQL and SQL, with Linux-based CI/CD. I have built a healthcare SaaS with a browser-based DICOM viewer and 127 automated tests, a multi-tenant workflow platform with strict tenant isolation, and a finance app with a PostgreSQL/Prisma data model. I use Claude Code daily for implementation, review and debugging, and I verify generated code with tests and design review before shipping.
+
+Python is a fundamentals-level skill for me. I have a HackerRank Python certificate but no production Python experience. I also have no production Rust or Nix experience. I would bring strong TypeScript, PostgreSQL, SQL, testing and Git habits, and I am ready to ramp up on the rest with clear review and feedback. My GitHub is https://github.com/Adam-zrigui and three live projects are at https://corevita.vercel.app, https://labflow-beige.vercel.app and https://smart-budget-rho.vercel.app.
+
+Kind regards,
+Adam Zrigui
+zriguiadam@gmail.com
+(+216) 23018023
