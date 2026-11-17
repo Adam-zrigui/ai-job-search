@@ -1,5 +1,7 @@
 # MixRank - Junior Software Engineer (Remote, Global)
 
+> Status: fallback only. MixRank also has a 3+ year Software Engineer - Global (Remote) role at $24k-$48k that better matches the candidate's experience and pay band. Use `documents/applications/mixrank_software_engineer_global_remote/` as the primary packet and do not submit both unless MixRank invites it.
+
 ## Posting
 
 - Role: Junior Software Engineer - Remote (Global), Full-Time
